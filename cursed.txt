@@ -1,0 +1,1932 @@
+With Male Corrin
+C Support
+Camilla: Corrin! I've been looking all over for you.
+Corrin: Camilla? Is something wrong?
+Camilla: No, no, of course not. Now, I'll just sit down first, and...I'm all ready!
+Corrin: This again?
+Camilla: That's right—it's time for you to rest your precious little head in my lap. Would you like a lullaby as well? I know how hard it is to fall asleep sometimes.
+Corrin: Camilla, it's been YEARS since I've done that.
+Camilla: Are you sure? It seems like yesterday to me. I could just sit and stare at your cute little sleeping face for hours. C'mon! I promise I won't kiss your cheeks while you're sleeping. Oh, who am I kidding? I can't promise that!
+Corrin: Camilla... I'm not a child anymore.
+Camilla: So?
+Corrin: So...our relationship has to evolve. You don't need to cuddle me to sleep anymore.
+Camilla: I don't see why not!
+Corrin: Look, it's normal for a sister to be close to her brother... But this is something else altogether.
+Camilla: So you're worried about what people will think, is that it?
+Corrin: Well, yes! I'm not a child anymore, and I need to be taken seriously!
+Camilla: D'awww, you're all growed up. I'm so proud of you, my sweet little brother.
+Corrin: Are you even listening to me?
+B Support
+Camilla: Ah, there you are, Corrin.
+Corrin: Hello, Camilla. I suppose it's my nap time?
+Camilla: Of course not. I've come to my senses. I know I oughtn't treat you as a child.
+Corrin: Do you mean that? My message finally got through?
+Camilla: Certainly. Going forward, I will treat you as the adult brother you have become. Now then, I was thinking we deserve a small break from all this action. Shall we pop off to the local hot springs for a spell? Do a bit of a "spa fortnight," as I like to call it?
+Corrin: What?!
+Camilla: What do you mean, "what"? It's just a little soaking and relaxing, dear. Don't we deserve a little extra time to bond?
+Corrin: Of course, but... How do you think it would look to the others? I can't let my friends fight and die while I'm off soaking in a tub!
+Camilla: And basking in the rejuvenative powers of daily facial peels! One mustn't forget the facial peels.
+Corrin: I'm sorry, Camilla, but I can't get away for something like that right now.
+Camilla: Oh, I suppose not. It's just that I feel terrible about your wretched past. Being locked away for so long...unable to run wild with the other boys. Let alone experience life's simplest pleasures! Like splashing in the ocean...or playing knights and dragons with your friends. Father didn't allow that sort of thing, did he?
+Corrin: No.
+Camilla: Don't you see how hard it was on me? Not to be able to do anything for my poor little brother?
+Corrin: Camilla, please don't cry.
+Camilla: You're right, I'm being ridiculous. Letting my emotions overtake me like that. Just give me a moment...
+Corrin: Of course.
+Camilla: ...to pack both of our bags! Now, will you be needing any armor, or can we pack light?
+Corrin: Better bring a set, just in case. Wait, what am I saying?
+A Support
+Corrin: Camilla, can we chat for a minute?
+Camilla: Of course, my silly little Corrin! I mean...of course, Corrin. Is everything all right? You seemed so distressed the other day. And then you just ran off...
+Corrin: I know. I just needed some time to think.
+Camilla: Time to think?
+Corrin: Yes. Sometimes you come on so strong, and my first reaction is to run and hide. But...I realized that that's pretty childish.
+Camilla: Oh?
+Corrin: I mean, here I am trying to get you to treat me as an adult... But I'm acting like a spoiled brat. I do need to work harder at empathizing with others. I know that your intentions are pure. And I appreciate how much you care for me. So...I'd like to spend more time with you. I promise I won't run away again.
+Camilla: Awwww... *sob*
+Corrin: Camilla?
+Camilla: My little Corrin is growing up right before my eyes. So, where should we go first? There's a whole world out there to explore!
+Corrin: Well, I thought you might have some ideas about that.
+Camilla: Oh, I most certainly do! Look at this map.
+Corrin: Did...did you just pull that out of your bra?
+Camilla: Where else would I keep it? Now, let's see... Ah, yes. See all these circles?
+Corrin: Yes... Is this a map of all of Nohr?
+Camilla: Indeed. Oh, I've been planning this for ages! Now, each circle represents a place I've dreamed of visiting with you.
+Corrin: I don't know what to say...
+Camilla: First on the list is this field of flowers here. It's absolutely sublime—a living work of art. This circle is a cavern filled with sparkling crystals and mysterious rock formations. And, last but not least, a secluded hot spring not far from our current location...
+Corrin: Really?
+Camilla: Yes, I want more than anything to go together.
+Corrin: Camilla, you meant for us to visit this hot spring from the very beginning, didn't you?
+Camilla: Don't be ridiculous. It just so happens that it's a natural wonder.
+Corrin: And it has nothing to do with the—what did you call it? Facial peel?
+Camilla: Oh, well as long as we're there, we might as well TRY one...or two...
+Corrin: Well...let me think about it. OK?
+Camilla: Oh, certainly! I can wait. I mean, I've already been waiting for years. Take your time, brother. This will be like the blink of an eye.
+Corrin: First things first... They don't actually peel your face off, do they?
+S Support
+Camilla: OK, I'm all packed, Corrin. Are you ready for our hot-spring vacation?
+Corrin: Um... I'm actually having second thoughts about the whole thing, Camilla.
+Camilla: You're still hung up on what other people will think—is that it?
+Corrin: Yes, but it's more than that.
+Camilla: Well, why don't we just get married? Nobody would bat an eyelash at two newlyweds going on a honeymoon.
+Corrin: What?! How do you think people's eyelashes would respond to a brother marrying his sister?
+Camilla: Oh, please. We're not blood related. And everyone knows that.
+Corrin: But...we've lived as brother and sister for so long. And everyone knows THAT, too.
+Camilla: You know, I've always been a bit sad that we're not actually related. But if we got married, we would be!
+Corrin: Camilla, are you even listening to yourself?
+Camilla: So, is that a no?
+Corrin: I...I think it has to be a no, right? Even though there is a part of me that wants to say yes...
+Camilla: There is? Let's build on that! Look, what's the hang-up? You don't find me attractive?
+Corrin: Gods...I had hoped to avoid ever having this conversation...
+Camilla: So that's it, then. You find me hideous.
+Corrin: Camilla, no! It's just the opposite, I'm afraid. Growing up with a stunningly attractive sister...who's not ACTUALLY my sister... It was confusing, to say the least. And now that we're adults of no blood relation...
+Camilla: Oh, Corrin. I never knew you felt that way!
+Corrin: Exactly.
+Camilla: But don't you see? There's no reason to hide our love any longer. I'll say it again: we are not related. There's no taboo preventing us from marrying. We're just like...childhood sweethearts who have finally come of age.
+Corrin: ... ... All right.
+Camilla: What?!
+Corrin: Let's do it, Camilla. Let's ignore the dissenters and get married.
+Camilla: Are you sure, Corrin? I don't want to feel as though I've pushed you into this...
+Corrin: No. I'm certain. Thanks to you, I won't have to live with regret any longer. You've shown me that being an adult means being true to yourself. I love that about you...and I love you.
+Camilla: I love you too, Corrin. Let's stay together forever.
+Corrin: Once the war is over, we can travel wherever we like. Even to the hot spring you've been wanting to visit for so long.
+Camilla: Wait, we still don't get to go right now?
+Camilla: We're a real family now. And I love my family more than anything.
+With Female Corrin
+C Support
+Camilla: Corrin! I've been looking all over for you.
+Corrin: Camilla? Is something wrong?
+Camilla: No, no, of course not. Now, I'll just sit down first, and...I'm all ready!
+Corrin: This again?
+Camilla: That's right--it's time for you to rest your pretty little head in my lap. Would you like a lullaby as well? I know how hard it is to fall asleep sometimes.
+Corrin: Camilla, it's been YEARS since I've done that.
+Camilla: Are you sure? It seems like just yesterday to me. I could just sit and stare at your precious sleeping face for hours. C'mon! I promise I won't kiss your cheeks while you're sleeping. Oh, who am I kidding? I can't promise that!
+Corrin: Camilla... I'm not a child anymore.
+Camilla: So?
+Corrin: So...our relationship has to evolve. You don't need to cuddle me to sleep anymore.
+Camilla: I don't see why not!
+Corrin: Look, it's normal for sisters to be close to one another...But this is something else altogether.
+Camilla: So you're worried about what people will think, is that it?
+Corrin: Well, yes! I'm not a child anymore, and I need to be taken seriously!
+Camilla: D'awww, you're all growed up. I'm so proud of you, my sweet little sister.
+Corrin: Are you even listening to me?
+B Support
+Camilla: Ah, there you are, Corrin.
+Corrin: Hello, Camilla. I suppose it's my nap time?
+Camilla: Of course not. I've come to my senses. I know I oughtn't treat you as a child.
+Corrin: Do you mean that? My message finally got through?
+Camilla: Certainly. Going forward, I will treat you as the adult sister you have become. Now then, I was thinking we deserve a small break from all this action. Shall we pop off to the local hot springs for a spell? Do a bit of a "spa fortnight", as I like to call it?
+Corrin: What?!
+Camilla: What do you mean, what? It's just a little soaking and relaxing, dear. Don't two sisters deserve a little extra time to bond?
+Corrin: Of course, but... How do you think it would look to the others? I can't let my friends fight and die while I'm off soaking in a tub!
+Camilla: And basking in the rejuvenative powers of daily facial peels! One mustn't forget the facial peels.
+Corrin: I'm sorry, Camilla, but I can't get away for something like that right now.
+Camilla: Oh, I suppose not. It's just that I feel terrible about your wretched past. Being locked away for so long...unable to go shopping or stroll the gardens. Let alone experience life's simplest pleasures! Like running madly through a springtime meadow...or splashing in the ocean. Father didn't allow that sort of thing, did he.
+Corrin: No.
+Camilla: Don't you see how hard it was on me? Not to be able to do anything for my poor little sister?
+Corrin: Camilla, please don't cry.
+Camilla: You're right, I'm being ridiculous. Letting my emotions overtake me like that. Just give me a moment...
+Corrin: Of course.
+Camilla: ...to pack both our bags! Now, would you like to bring one bathing suit or two?
+Corrin: Two, of course. Wait, what am I saying?
+A Support
+Corrin: Camilla, can we chat for a minute?
+Camilla: Of course, my silly little Corrin! I mean...of course, Corrin. Is everything all right? You seemed so distressed the other day. And then you just ran off...
+Corrin: I know. I just needed some time to think.
+Camilla: Time to think?
+Corrin: Yes. Sometimes you come on so strong, and my first reaction is to run and hide. But...I realized that that's pretty childish.
+Camilla: Oh?
+Corrin: I mean, here I am trying to get you to treat me as an adult...But I'm acting like a spoiled brat. I do need to work harder at empathizing with others. I know your intentions are pure. And I appreciate how much you care for me. So...I'd like to spend more time with you. I promise I won't run away again.
+Camilla: Awwww... *sob*
+Corrin: Camilla?
+Camilla: My little Corrin is growing up right before my eyes. So, where should we go first? There's a whole world out there to explore!
+Corrin: Well, I thought you might have some ideas about that.
+Camilla: Oh, I most certainly do! Look at this map.
+Corrin: Did...did you just pull that out of your bra?
+Camilla: Where else would I keep it? Now, let's see...Ah, yes. See all these circles?
+Corrin: Yes... Is this map of all of Nohr?
+Camilla: Indeed. Oh, I've been planning this for ages! Now, each circle represents a place I've been dreaming of visiting with you.
+Corrin: I don't know what to say...
+Camilla: First on the list is this field of flowers here. It's absolutely sublime--a living work of art. This circle is a cavern filled with sparkling crystals and mysterious rock formations. And, last but not least, a secluded hot spring not far from our current location...
+Corrin: Really?
+Camilla: Yes, I want more than anything to go together.
+Corrin: Camilla, you meant for us to visit this hot spring from the very beginning, didn't you?
+Camilla: Don't be ridiculous. It just so happens that it's a natural wonder.
+Corrin: And it has nothing to do with the--what did you call it? Facial peel?
+Camilla: Oh, well as long as we're there, we might as well TRY one...or two...
+Corrin: Well...let me think about it. OK?
+Camilla: Oh, certainly! I can wait. I mean, I've already been waiting for years. Take your time, sister. This will be like the blink of an eye.
+Corrin: First things first... They don't actually peel your face off, do they?
+With Jakob
+C Support
+Jakob: Good day, Lady Camilla.
+Camilla: Hello, Jakob. How fortunate to run into you like this. I've been meaning to thank you for all that you do for Corrin.
+Jakob: Well, thank you very much. It's nice to know that I'm appreci—
+Camilla: However! I would also like to inform you that your services are no longer needed. You can instead focus your efforts on other members of our company.
+Jakob: Excuse me?
+Camilla: Was I not clear enough? I will be providing for Corrin from this moment forward.
+Jakob: My dearest Lady Camilla, you needn't burden yourself with such things. I am more than capable of providing for Lady/Lord Corrin on my own.
+Camilla: Why? So you can keep her/him for yourself? I won't hear of it.
+Jakob: No, of course not. Pardon my tone, but what has gotten into you? Have I done something wrong?
+Camilla: Never mind that. Just steer clear of Corrin. Got it?
+B Support
+Camilla: Jakob, did you launder these clothes for Corrin?
+Jakob: Yes, of course. I carefully hand-washed and folded all of her/his garments. Is there a problem?
+Camilla: Yes. I told you that I would be handling this sort of thing for Corrin.
+Jakob: You can't possibly be serious, Lady Camilla. A princess of Nohr, washing dirty laundry? Surely it would be beneath you.
+Camilla: I'm going to say it one more time. I will take care of everything Corrin needs. All by myself. Got it?
+Jakob: I'm sorry, but I've been entrusted with this duty. The decision is entirely out of my hands, Lady Camilla.
+Camilla: Need I remind you? Corrin is my sister/brother! So I call the shots.
+Jakob: You may be her/his sister, but Lady/Lord Corrin is my liege. I'm afraid I can't budge on this.
+Camilla: Do you even care about Corrin? Because if you did, you'd realize that she/he needs her/his sister more than anyone.
+Jakob: I know Lady/Lord Corrin well enough to know she/he wouldn't want to burden you.
+Camilla: I command you to listen to me! I will take care of Corrin!
+Jakob: My sincerest apologies, but I only take orders from Lady/Lord Corrin. As such, I will continue to serve Lady/Lord Corrin as I always have. Good day.
+Camilla: This is unbelievable...
+A Support
+Camilla: Jakob, do you have a moment? I feel I must apologize for the other day.
+Jakob: Apology accepted, Lady Camilla.
+Camilla: You're quite loyal to Corrin, aren't you?
+Jakob: Indeed I am. Lady/Lord Corrin gave me a home when nobody else would. I will happily serve her/him until my dying day.
+Camilla: I thought I was the only one who felt that strongly about Corrin...
+Jakob: Certainly not. But I do envy the bond that the two of you share as siblings.
+Camilla: Well, I suppose there's no reason for us to be fighting like this.
+Jakob: I agree wholeheartedly.
+Camilla: And yet I've been so awful to you. Once again, I must apologize, Jakob.
+Jakob: I should also apologize for my tone. Nobody likes an obsequious butler.
+Camilla: Let's stop competing over Corrin and focus on protecting her/him.
+Jakob: Agreed. I will protect her/him even at the cost of my own life.
+S Support
+Jakob: Ugh...
+Camilla: Jakob? What's the matter?
+Jakob: Oh, hello, Lady Camilla. I'm so ashamed.
+Camilla: Of what? It can't possibly be that bad.
+Jakob: Oh, it's bad. For the first time in my life...I feel angry with Lord/Lady Corrin.
+Camilla: Hmm. That is bad. But why?
+Jakob: Perhaps angry isn't the right word. I am envious. Envious of his/her relationship with you.
+Camilla: I...I'm not sure I follow.
+Jakob: I know this is wrong. But I can't hide my true feelings any longer.
+Camilla: What are you even talking about?
+Jakob: Don't play coy with me, Lady Camilla. I've seen my passion reflected in your eyes. Marry me.
+Camilla: How...why...what?!
+Jakob: Do you deny that you have feelings for me as well?
+Camilla: I don't know how you did it, Jakob... But you have read my mind. I do feel the same way. However, I am a princess, and you are a butler. I'm not sure this will work.
+Jakob: We're two very capable people. We can make anything work, can't we?
+Camilla: Ha! Well, I suppose that's true. There's just one thing. A condition you must abide by if you wish to marry me.
+Jakob: Name it.
+Camilla: We are at war, Jakob. We face a harsh reality. If at any time you are forced to choose between me and Corrin... You must choose Corrin without a second thought.
+Jakob: But... You're right. As you wish.
+Camilla: There's a good butler...
+Jakob: Of course you realize that I must ask the same of you. If it ever comes down to Lord/Lady Corrin or me...
+Camilla: I would protect Corrin, even at the cost of your life.
+Jakob: I feel strangely...good...about this arrangement.
+Camilla: As do I. Jakob, I will gladly marry you. If there is happiness to be found in this cruel world, surely we can find it together. Let our mutual love of Corrin bind us together.
+Jakob: Thank you, Lady Camilla.
+With Silas
+C Support
+Camilla: Silas, do you have a moment? I have a favor to ask of you.
+Silas: Certainly. How can I help you, Lady Camilla?
+Camilla: It's quite simple. I just need you to relay a message to Corrin for me. Please tell him/her I love him/her.
+Silas: Um... That seems like the kind of thing you might want to tell him/her in person.
+Camilla: Well, sure. I tell him/her every day.
+Silas: Yeeeah. So, I would think that would be sufficient...
+Camilla: And you would be wrong! Lately, Corrin has hardly seemed to react to my proclamations of love! I'm not sure what's going on. But I decided that I need to try a new approach.
+Silas: Have you considered scaling back? Perhaps Corrin feels overwhelmed.
+Camilla: ...
+Silas: Never mind—I would be happy to help. Now, what exactly would you like for me to say?
+Camilla: Let's see ... How about, "I love you, schmoopie!" And "You're sooooooooooo sweet!" Please be sure to relay both messages. Accuracy is paramount.
+Silas: ...
+Camilla: Is something wrong, Silas?
+Silas: Not at all, Lady Camilla. I will carry out your request.
+B Support
+Silas: Lady Camilla, I've relayed your message to Corrin as requested.
+Camilla: Thank you. And how did he/she react?
+Silas: Like it was old news, I suppose. But, to be fair, Lady Camilla... What did you expect?
+Camilla: I see.
+Silas: Please don't look so down. This just means that Corrin already knows how you feel about him/her.
+Camilla: Let me tell you a story, Silas. Long ago, when Corrin was locked up in the castle. I baked some cookies and brought him/her a plate, along with some tea.
+Silas: Yes, I remember that day! Those were delicious.
+Camilla: I'm glad you thought so. But Corrin never got the chance to try them.
+Silas: What?! Why not?
+Camilla: Well, if I remember correctly, he/she was in the middle of a lesson... By the time you and everyone else had taken a cookie, there were none left. I ran into him/her later that day, and he/she was flushed and angry. "Thanks for nothing, my so-called sister!" he/she shouted.
+Silas: Yes, I remember...
+Camilla: So, I took Corrin into my arms, and told him/her... "I love you so much." And I vowed to never let him/her forget it.
+Silas: That's a sweet story, Lady Camilla. And I understand your motivation. But, if I may be so bold... I don't think you need to worry so much.
+Camilla: And why is that?
+Silas: Well, Corrin was only a child. And he/she was reacting in a childish manner. You were certainly not at fault in any way. And he/she definitely knows you love him/her.
+Camilla: Be that as it may, I never want to see Corrin in such a state again. So... would you mind relaying just one more message of love for me?
+Silas: Again?
+Camilla: Yes. This time, try saying "You are so sweet." And "I love you so much." Really channel my emotions if you can! Let Corrin feel the depth of my love!
+Silas: Very well, Lady Camilla. One more time...
+A Support
+Silas: Lady Camilla, I have fulfilled your request. To made the moment more poignant, I even secured musical accompaniment.
+Camilla: Wonderful! And how did Corrin react?
+Silas: Well... he/she seemed to enjoy the music... But other than that, he/she didn't really react.
+Camilla: Hmpf.
+Silas: Camilla, you must understand. I am also extremely close with Corrin. And I know how much he/she cares about you and appreciates your words of love. I do, however, know of another person desperate to hear those words from you...
+Camilla: Oh? I can't imagine who.
+Silas: This person truly desires your love and admiration.
+Camilla: Well, who could it be? Leo? Elise? You don't mean... Xander?
+Silas: No, none of them. Camilla... I speak of myself.
+Camilla: What?!
+Silas: When Corrin and I were children, I thought I was jealous... Jealous because he/she had a sister like you, and I was an only child. But in hindsight, it's clear to me now that I was in love with you.
+Camilla: Oh, Silas...
+Silas: I apologize for speaking like this. I should have kept my mouth shut...
+Camilla: No, it's all right. I can't believe I never knew you felt this way.
+Silas: Please. Would it have made any difference?
+Camilla: Honestly... I don't know.
+Silas: Then forget I said anything. Pardon me.
+Camilla: Wait, Silas!
+Silas: Yes?
+Camilla: I had feelings for you too, once. Though the moment may have passed...
+Silas: Camilla...
+Camilla: Perhaps we should leave it at that?
+Silas: Certainly.
+S Support
+Silas: Camilla, thank you for hearing me out the other day.
+Camilla: Of course, Silas. Your words made me happy. I'm not sure that Corrin would approve, but...
+Silas: Well, brace yourself. I have more to say.
+Camilla: Yes?
+Silas: Camilla... will you marry me?
+Camilla: Are you serious?
+Silas: I know this is all so sudden... But here, please accept this ring.
+Camilla: I... I can't, Silas!
+Silas: But you just said that my words made you happy!
+Camilla: And that is true. But... what about Corrin?
+Silas: You're worried he'll/she'll be jealous. Or think you don't love him/her.
+Camilla: Yes. No... I don't know!
+Silas: I anticipated that you might feel this way. Which is why I've already asked for his/her blessing.
+Camilla: And he/she granted it?!
+Silas: Yes. In fact, it was Corrin who gave me the courage to finally say something.
+Camilla: In that case... then I will gladly accept your proposal, Silas!
+Silas: Fantastic! This is the best day of my life! I can't wait to go tell Corrin!
+Camilla: What?! Why do you get to tell him/her? I'm his/her sister!
+Silas: But he's/she's my best friend!
+Camilla: Well, then, forget it. Engagement off!
+Silas: Augh!
+Camilla: Oh, I'm just teasing. But I WILL be the one to break the news, got it?
+Silas: Very well. Be my guest. Either way, I'll still be the happiest guy in the world!
+With Kaze
+C Support
+Camilla: Kaze. There's something I wish to talk to you about. Can you spare a moment?
+Kaze: Of course, Lady Camilla. What do you need?
+Camilla: I've noticed that you are often approached by women you don't know. It's made me...curious about what sort of man you are. Why are you so popular?
+Kaze: Please, allow me to clear up any misconceptions you may have. I do not accept any romantic advances. Nor do I accept tokens of affection. Though I must admit I find it difficult to endure particularly persistent gift givers.
+Camilla: Hm. And yet, from what I can tell, it seems like you answer them all very kindly. Maybe that's one of the reasons they can't seem to leave you alone.
+Kaze: Do you think so? To be honest, I do not fully understand it myself.
+Camilla: I see. I find myself more and more intrigued by you. I have a proposal for you, Kaze. You see, I'm planning a tea party with some of the ladies in camp soon. And I would very much like for you to attend.
+Kaze: Th-that's... I don't...
+Camilla: Hm? Do you not believe that strengthening camaraderie within the ranks is important? It's just a little tea and conversation. What could it possibly hurt?
+Kaze: Is this an order, milady?
+Camilla: Now, now. "Order" is such an ugly word. But yes. It is.
+Kaze: ...Understood. I humbly accept your most gracious invitation.
+Camilla: Hehe. Thank you, Kaze. I'm looking forward to it. Now, I must be off. Good-bye!
+(Camilla leaves)
+Kaze: ...
+B Support
+Kaze: *sigh*
+Camilla: What's wrong, Kaze? You're sighing like a spurned lover.
+Kaze: Oh, nothing. I'm merely a little...mentally fatigued.
+Camilla: Was our little tea party so taxing?
+Kaze: No, milady. I would not use that word to describe it. I suppose I was only expecting to see the women from camp at your gathering. Seeing the ladies from town there was...a surprise.
+Camilla: I suppose that makes sense. You were quite the sight, surrounded like that. I must admit, I almost felt jealous of all the attention you were getting!
+Kaze: In that case, you might have come over and spoken with them.
+Camilla: Oh, no. I couldn't do that! You seemed to be having such a good time without me. Don't tell me you didn't enjoy it. You were smiling the whole time!
+Kaze: That was because I did not wish to appear rude. Besides, it would not be fair to take out my frustrations on those kind women.
+Camilla: Hehe. Well said, for someone who claims to not enjoy such attention. I must say, though—I'm actually beginning to believe you. Unfortunately for you, I think it is that very sincerity that makes women swoon. You are kind and earnest, yet you genuinely wish to appear aloof. Such qualities are rare, especially among fine young men like you. You know, I think I'm beginning to enjoy your company myself.
+Kaze: Do you mean you wish for me to attend more tea parties with you?
+Camilla: Would you come if I said yes?
+Kaze: I would decline. Unless it is an order, in which case I must oblige.
+Camilla: Hehehe. Always with the serious answers. But I will not command you anymore. You need only show up if you wish to.
+Kaze: Thank you, milady. If that's all, I'll be on my way.
+(Kaze leaves)
+Camilla: Hmm...I wonder if he'll come?
+A Support
+Kaze: Lady Camilla, have I arrived too early for your tea party? I see only settings for two. Shall I help you finish your preparations?
+Camilla: Thank you, Kaze, but that won't be necessary. There is no party.
+Kaze: I see. I'm afraid I don't understand.
+Camilla: Well, I've only made tea for two. That's hardly a party, wouldn't you say? I summoned you here because I wished to talk to you. Alone.
+Kaze: Ah...I am honored to receive your favor, Lady Camilla. What are we to talk about?
+Camilla: Straight to business, eh? I like that. Well, the truth is, I owe you my gratitude for something.
+Kaze: Oh? What for?
+Camilla: Apparently you helped out a few of my subordinates. They'd somehow gotten into a scuffle with soldiers that were in the army before us. I'm told you came to their aid and were quite helpful in ending the fight. I don't yet know the details, but my people were rather appreciative of what you did. In truth, that is what really sparked my interest in you. A loyal Hoshidan, going out of his way to help out some Nohrians... He must be a man of integrity, I thought. I was not wrong.
+Kaze: I see. But I still have no memory of such an incident.
+Camilla: Heh. I'm sure it was an unremarkable occurrence to a man like you. But still, I am very thankful. And it has given me the chance to get to know you. For which I am even more thankful.
+Kaze: Yes. I am very thankful to have met you as well.
+Camilla: Thank you. Then may I look forward to having your company for tea in the future?
+Kaze: You mean with others?
+Camilla: Oh, yes. The more the merrier, as they say.
+Kaze: Well, if you insist, I suppose I can muster the inner fortitude required.
+Camilla: Heehee, perfect! I look forward to seeing you at my next tea party, then!
+S Support
+Camilla: Here you are. As you may notice, today's tea is different from usual.
+Kaze: Thank you, Lady Camilla. Mm. Indeed, it does seem to have a slightly different flavor.
+Camilla: Hehe. Do you like it?
+Kaze: Yes. It is splendid, as always. You know, I never imagined we would have tea as frequently as we do these days.
+Camilla: I am as surprised as you are.
+Kaze: To be honest, when we first met, I was not entirely sure what your game was. But now I see that you are just a genuinely kind and caring person. I suppose it's true. We really must never judge a book by its cover. I'm very happy to have had the opportunity to get to know you. You are very special to me.
+Camilla: Oh...th-thank you.
+Kaze: Milady? What is it?
+Camilla: I just never thought that you would look me in the eyes and say that. But I'm happy that you did. I've never felt this way before.
+Kaze: Huh?
+Camilla: I'm not sure how it came to be, but I've realized that you're very precious to me. I find myself wanting to drink tea with you like this every day for the rest of my life.
+Kaze: You mean...
+Camilla: Heehee. You're not going to make me say it, are you? I want YOU to take the lead here.
+Kaze: Understood, milady. Then please, allow me to tell you how I feel. Camilla. Would you do me the honor of becoming my wife? I have for some time admired you for your magnanimous character and loving spirit. I know that we do not occupy the same social rank. And I also know that we come from two very different parts of the world. But I could not forgive myself if I did not ask you for your hand. On my honor, I wish to protect and to serve you for the rest of our lives. Will you have me?
+Camilla: Yes. Yes, I will! Thank you, Kaze. You've made me so happy.
+Kaze: Truly?
+Camilla: Heehee, of course! You may be a bit too popular with the ladies for my liking, but that's OK. If anything, it also makes me proud to call you mine. And the qualities that inspire that admiration are those I care for most. Earnestness, loyalty, honor, kindness... You have everything I ever wished for.
+Kaze: I am not worthy of such high praise. Thank you...my love.
+Camilla: No, thank you. Now, enough of this. We must go tell Corrin the good news at once!
+With Xander
+C Support
+Xander: Is this where you've been hiding, Camilla?
+Camilla: Hmm? Ah, hello, Xander.
+Xander: I've been looking for you. The war council is about to start.
+Camilla: Is it? Gracious. The time must have flown by during my little chat with Corrin.
+Xander: You were talking to Corrin? What about?
+Camilla: I suppose there's no harm in you knowing. Corrin had worries about a few things, that's all.
+Xander: Nothing too serious, I hope.
+Camilla: Never fear. Between the two of us, we've smoothed things over. *sigh* And that's only the latest crisis. Before Corrin, it was Leo, and before him it was Elise. One after another, they came to me for advice on solving their problems.
+Xander: I...I see. This is the first I'd heard about any such problems.
+Camilla: We play different roles, that's all. I am the doting older sister they can come to with their troubles. You, meanwhile, are the stoic pillar of the family, attentive to the war above all else.
+Xander: That's absurd. The war doesn't have a monopoly on my attention.
+Camilla: Oh? Do tell.
+Xander: Some other time, perhaps. For now, we do need to get to that war council.
+Camilla: You're not making a good case for yourself there...
+B Support
+Xander: Camilla, a word, please.
+Camilla: What's on your mind?
+Xander: You claimed that I'm more devoted to the war effort than to my family. I wanted to make it clear that those are not my true priorities.
+Camilla: Oh dear. Does it irk you that our siblings come to me and not you for advice?
+Xander: Not overmuch. It's more than that. Our family weighs at least as heavy on my heart as our kingdom's war efforts.
+Camilla: Does it really? I wonder... Shall we put that claim to the test?
+Xander: You seek to test me?
+Camilla: Call it a quiz, if you prefer. A chance to prove the depth of your knowledge.
+Xander: In that case, yes. I submit to your testing.
+Camilla: I'll give you an easy first question. What is my favorite food?
+Xander: I am aware that you like sweets. Bonbons in particular, if I recall correctly.
+Camilla: I'd expect nothing less from you, Xander. My next question concerns—
+Xander: Hold, I had not finished answering. You have a weakness for bonbons. But that is not your favorite food in all the world. What you crave, given your druthers, is steak.
+Camilla: Go on...
+Xander: You prefer it grilled only lightly and will send it back if there is too much charring. You are also particular about seasoning and will accept only certain sauces.
+Camilla: How do you remember that much?
+Xander: Now, as to your favorite vegetables...
+A Support
+Xander: I enjoyed your little quiz, Camilla.
+Camilla: That much was evident. I was shocked at your memory for details. You knew everything about my favorite foods, Elise's hobbies, Leo's pet peeves... Even Corrin's favorite scents, which I was certain I alone knew. You had a ready answer for every question, no matter how insignificant. Some of those details even I didn't know.
+Xander: As indifferent to our family as I may appear, that is far from the truth.
+Camilla: I understand that now. I'll try to dispel any misconceptions the others may still harbor.
+Xander: Thank you, but there's no need for that.
+Camilla: Are you certain? If they knew the truth, they might treat you more like family.
+Xander: Satisfying though that may be, it would not be prudent. My position as crown prince of Nohr is a precarious one. I must maintain a certain distance, even from my family. You seem to be ably handling our siblings' affairs, so I'll leave that to you.
+Camilla: But...so you mean to tell me you've been deliberately cultivating this image?
+Xander: Yes. Though I am glad to share the secret with at least one other. Don't worry about me. You said it yourself: we have different roles. Mine is to be the stern, unapproachable crown prince.
+Camilla: Well...if there's anything I can do to ease your burden, do tell me. I'll always help you in any way I can.
+Xander: Thank you. I'd expect no less from a princess of Nohr. And since you offered... Might we continue your quiz where we left off? It was surprisingly enjoyable.
+Camilla: Heehee, but of course. I'll stump you this time, just you wait!
+With Leo
+C Support
+Leo: Camilla, you're looking radiant today. Have you changed your hair?
+Camilla: Aw, thanks, Leo. No, it's just the same old style. But thanks for the compliment. Speaking of compliments, I think your armor is really cute.
+Leo: Cute? Ugh, that's the last thing I want to hear about my armor.
+Camilla: Heehee! Sorry, my sweet brother, but it's true. The matching leggings really make that whole outfit sing.
+Leo: Gods...
+Camilla: Oh, Leo. I know you're one of our most skilled warriors... But to me, you'll always be a baby brother.
+Leo: I see. A baby. Splendid.
+Camilla: Well, what's wrong with that? Don't worry—it's not like I'm going to pinch your cheeks in the heat of battle.
+Leo: ...
+Camilla: The silent treatment, eh? Fine. I have errands to run anyway. See you later, Leo.
+Leo: I should have kept my mouth shut...
+B Support
+Leo: Camilla, do you have a moment?
+Camilla: Of course, Leo. How may I help you?
+Leo: Well, I've discovered an interesting tome in the archive... But I'm having a hard time decoding some of the inscriptions. I was wondering if you could take a look.
+Camilla: Leo, if you can't make sense of them, what makes you think I'll have a chance? You were always the brighter student, remember?
+Leo: I wouldn't say that. I mean—
+Camilla: Please, spare me. You've always been the talented little brother. Even when you were a child, I was learning from you, and not the other way around.
+Leo: ...
+Camilla: What's the matter? Is it something I said?
+Leo: No, it's nothing. Don't worry about it.
+Camilla: Please, don't feel bad. I'm proud to have a brother as smart as you.
+Leo: Sometimes I wish I weren't so "talented." Then maybe you'd pay more attention to me...
+Camilla: Sorry, you're mumbling a bit, dear. I didn't quite catch that.
+Leo: It's nothing. Forget it. No, wait, Camilla. I do have something to say. Listen well. I'm going to use this war as an opportunity to prove myself to you and everyone else. I just ask that you pay attention.
+Camilla: Of course. But you have nothing to prove! I believe in you one hundred percent.
+Leo: Then I shall reach for one hundred and fifty.
+A Support
+Leo: Camilla, I need to speak with you about something important.
+Camilla: What's the matter?
+Leo: I need you to know—I'm not as talented as you think I am. I haven't done anything worthy of your pride. So you can stop faking it.
+Camilla: What are you talking about?
+Leo: I don't have the overwhelming power that Xander does. I'm not good with people like Elise. And how could I POSSIBLY compare to your beloved Corrin?
+Camilla: Leo...
+Leo: No, it's true. Everyone but me is actually deserving of your love.
+Camilla: I'm sorry you feel that way, Leo. But I really am proud of you. Please believe me. It's true that I love Elise, Xander, and Corrin too... But I have plenty of love to give. More than enough for you.
+Leo: It's OK. I'm not a little kid anymore. You don't have to say that.
+Camilla: Look, to be honest, I've been a little more hands off with you than the others. But that's because I didn't want to get in your way! You're going to do great things in this world, Leo. And I'm going to sit back and watch.
+Leo: ...
+Camilla: Don't believe me? Well, I saw what you did in that battle the other day...
+Leo: You...did?
+Camilla: One of our allies was in trouble, and you rushed in to protect him. Even though it put you in a vulnerable position. You took quite a hit!
+Leo: Indeed, I did...
+Camilla: And it's not just that. I notice you studying late into the night. I see how many hours you dedicate to your training...and how you encourage others. I've kept a careful eye on you, Brother, so I know my pride in you is justified.
+Leo: I...I had no idea.
+Camilla: You work so hard, Leo. And you worry too much. But part of that is my fault. I should have been more vocal with my support. Please forgive me. I will be a better sister from now on.
+Leo: No, no. I'm the one who should work on becoming a better sibling... I can't believe how self-absorbed I've been. Forgive me, and I will work even harder to be worthy of your pride.
+Camilla: All right, if it will make you feel better... I forgive you. Now, can we just go back to our normal roles? I'll be the doting older sister, and you been the genius who's smarter than everyone. Deal?
+Leo: Haha, deal.
+With Elise
+C Support
+Elise: Camilla!
+Camilla: Hello, Elise. What do you need, my darling?
+Elise: Jumping hug-a-snug attaaaack!
+Camilla: Ack! Heehee, that tickles! Cut it out, you.
+Elise: OK, fiiiiiine. ...Hey, Camilla? You ever notice how different we are? You're so strong, and you're all curvy! But I'm just a little string bean.
+Camilla: Hm? Where is this coming from?
+Elise: I dunno. I just want to be more like you!
+Camilla: Like me?
+Elise: Yeah! I want to be more mature and ladylike and stuff, just like you!
+Camilla: Aww. I wouldn't worry about it too much. You're perfect just the way you are.
+Elise: I don't wanna be perfect! I wanna be a mature woman!
+Camilla: Haha, then you'll have to learn the first lesson all mature people know. We must gratefully accept what the world decides to give us and make the most of it. Fussing over what things you can't change won't help anything.
+Elise: But... Camilla...
+Camilla: However, if you have your heart set on it, maybe I could give you some advice.
+Elise: Really? Thanks Camilla! You're the best!
+B Support
+Elise: Hey, Camilla! I'm ready for those pointers on how to be super mature!
+Camilla: All right. What would you like to know?
+Elise: What sort of things should a mature woman have?
+Camilla: Hm...I think the most important thing to have is an open mind.
+Elise: An open mind?
+Camilla: Yes. An open mind and a tolerant heart that's full of kindness. A mature lady must also learn to be merciful and forgiving.
+Elise: I see. But, um, Camilla... You're not like that at all to our enemies...
+Camilla: Oh, gods no! You never need to show such decency to them.
+Elise: R-really? Are you sure?
+Camilla: Of course! In any case, I think you already have most of those qualities. You've always been such a sweet and kindhearted girl.
+Elise: Aw, thanks! OK, next question! How can I get a body like yours?
+Camilla: Eat properly, exercise, and get plenty of sleep!
+Elise: That's...it?
+Camilla: I didn't do anything special, so if there's any other way, I couldn't tell you.
+Elise: Hmm. OK. So... you're saying that if I just don't do anything different, I'll be more like you?
+Camilla: Well, not. You'll always be a much more charming lady than me, Elise.
+Elise: Aw, shucks, you're embarrassing me! Nice save! I guess I'll believe you...for now.
+A Support
+Elise: Camilla! CAMILLA! Can you teach me more about how to be a mature lady?
+Camilla: Sure, but can I ask you something first? Why do you want to change so badly?
+Elisa: Because I'm nothing like you...but I really want to be.
+Camilla: Oh, Elise. You don't need to be like me!
+Elise: But you're so strong and grown up and beautiful! You're the whole package! I want to be more like a real lady. More like you. Even if only a little. Look! I even dyed some of my hair to be the same color as yours! Heehee.
+Camilla: Heehee. So that's why it's that color. I knew something was different. But I look up to you too, you know.
+Elise: What?! You do?
+Camilla: Yes. If it weren't for you, I might have lost hope a long time ago. Nohr is a dark place, and your innocence is one of the few lights in it. Whenever I see you, I remember why we fight. To protect that light.
+Elise: Really?
+Camilla: Yes. And I'm not the only one. We all feel that way about you, Elise. You inspire all of us to fight harder, and to hold fast to our hope. And one day, if we're lucky, the sun will show itself to us again.
+Elise: You're talking about me? Are you sure?
+Camilla: Yes. So have a bit more confidence. You are exactly who you need to be. If you must change, let it happen naturally. But never force it. You're too precious for us to lose...
+Elise: Camilla... Thank you! For you, I promise I won't change too much.
+With Arthur
+C Support
+Camilla: *sigh*
+Arthur: Lady Camilla? What's the matter? No, wait, don't tell me. You're upset! About...something.
+Camilla: Gee, how'd you know?
+Arthur: Oh ho! I can detect even the most subtle emotional cues. Now then, what troubles you, milady? And how may I be of assistance?
+Camilla: It's Corrin, if you must know.
+Arthur: Your brother/sister, Lord/Lady Corrin? Aren't you two rather close?
+Camilla: That's just it. I am overflowing with love for Corrin.
+Arthur: Ah. A medical condition. Fear not, I'll rush a message to the local apothecary...
+Camilla: No, Arthur, you don't understand. I constantly remind Corrin how much I love him/her, but it's still not enough.
+Arthur: Hmm. This is a tricky situation, but I believe I can help.
+Camilla: At this point, I'm willing to try anything.
+Arthur: Very well! I'm off to proclaim your love to Lord/Lady Corrin!
+Camilla: Hold it! This is a delicate situation...You'll have to choose your words carefully. Or rather, I'll have to choose them carefully...
+Arthur: Splendid. Consider me a sweet-nothing delivery system—at your service!
+Camilla: Excellent! So, here's what I'd like you to say to him/her...
+B Support
+Arthur: Good day, Lady Camilla. I have terrific news to report.
+Camilla: Oh? Did you relay my message to Corrin? What did she/he say?
+Arthur: Indeed. And I'm afraid I have bad news.
+Camilla: But I thought you just said you had terrific news?!
+Arthur: Oh ho! I can see how that would be confusing. The good news was that I completed the mission! The bad news is that I failed miserably.
+Camilla: Ugh. Fine, let me hear it.
+Arthur: With pleasure! To begin, I decided to relay your message to Lord/Lady Corrin in the evening. So as not to disturb his/her busy daytime schedule, of course. Additionally, I thought it prudent to whisper underneath his/her doorframe.
+Camilla: What in Nohr would compel you to deliver my message like that?!
+Arthur: Well, I thought it would be considerate to avoid disrupting his/her bedtime routine. In any case, I received a strange and vaguely threatening reply. "STOP IT!"
+Camilla: I see...
+Arthur: Please don't cry, Lady Camilla. I'm sure Lord/Lady Corrin had a good reason for replying in that manner.
+Camilla: Wait a second. If you were simply whispering under a door...Did you actually see Corrin? Because he/she has recently been asked to switch rooms for security reasons.
+Arthur: I...I was unaware of this.
+Camilla: So there's a chance you were speaking to the wrong person!
+Arthur: Oh ho! Based on this new information . I'd estimate close to a 100 percent chance. In fact, thinking back now...I believe I heard someone singing. If my ears are as sharp as my wits, I would have to say it was Lady Azura's voice. I do apologize, milady. It appears I have done you a great disservice.
+Camilla: It's OK, Arthur. Everyone makes mistakes. You just make... a LOT of them.
+Arthur: Please, allow me to make it up to you. Give me another chance to help.
+Camilla: Very well...
+Arthur: Thank you very much. I shall redeem myself with gusto.
+A Support
+Arthur: Lady Camilla...I've completed my mission.
+Camilla: I am mildly terrified to hear the results...but please, go on.
+Arthur: Certainly. And rest assured, I will be completely unambiguous in my report. I have utterly failed.
+Camilla: Ugh. Let's hear the grisly details.
+Arthur: As you wish, milady. My first order of business was to clear things up with Lady Azura. Fortune smiled upon me, however, as I found her walking with Lord/Lady Corrin! So, seeking to catch two fish with one worm, as I believe the saying goes...I first approached Lady Azura with a sincere apology. Strangely, she didn't acknowledge our previous encounter in any way. Next, I stood square in front of Lord/Lady Corrin and proclaimed your love! Well, he/she gave me a very strange look indeed...
+Camilla: And?
+Arthur: And...that's when he/she shouted. "It was you!"
+Camilla: And?
+Arthur: And...that's when I took the opportunity to run away at full speed.
+Camilla: Well, it does sound like you failed, but something about your story doesn't add up.
+Arthur: Hmm. I can't imagine why. Did I mention the part where I was struck by a carriage on my way to the encounter?
+Camilla: You most certainly did not! Did it strike you in the head, Arthur?
+Arthur: Oh, yes! Not once, not twice, not thrice, but FOUR times!
+Camilla: Four time?! How is that even possible? Are you sure it was only one carriage?
+Arthur: I'm not sure of anything anymore...
+Camilla: My poor Arthur. You may not have failed quite as completely as you think.
+Arthur: How so?
+Camilla: Don't you see? In your confusion, you must have mistaken Corrin for Lady Azura!
+Arthur: Yes, that would explain certain...things. I'm so terribly sorry to have bungled this simple task yet again, Lady Camilla. How can I ever make it up to you?
+Camilla: It's alright Arthur. Don't be too hard on yourself. From what I've heard, you aren't the luckiest fellow in our kingdom. And yet it seems you never back down from a challenge. That's an admirable quality.
+Arthur: Lady Camilla, you're too kind. Now, if I might have one more opportunity to redeem myself...
+Camilla: Sorry, I'm not THAT kind.
+S Support
+Arthur: Ah, Lady Camilla. Thank you for meeting with me.
+Camilla: Hello, Arthur. I'm happy to meet with you, but if this is about Corrin...You needn't worry.
+Arthur: No, this isn't about Lord/Lady Corrin. This is about US, milady.
+Camilla: Us? Like, you and me?
+Arthur: Yes. Despite my failings, you have treated me with such kindness. I know we are worlds apart, and I would sooner have luck touching the stars...But as they say, something ventured, some other thing gained...Will you marry me?
+Camilla: Arthur, did any carriages strike you on the way here today?
+Arthur: Pardon me?
+Camilla: Take a close look at my face. You are speaking with Lady Camilla. Are you aware of that?
+Arthur: Oh ho! But of course! Who else would you be?
+Camilla: Sorry, I just had to check.
+Arthur: So...I take it that's a no?
+Camilla: Oh, no, no. It's a yes!
+Arthur: But...you said "no" twice. Um...
+Camilla: Yes, yes, yes! It's a yes, Arthur! You have the worst luck out of anyone I've ever met, and yet...I'm drawn to your faithfulness and your earnest nature.
+Arthur: Oh ho! Terrific! There's just one thing. I had a rather striking ring picked out...But on the way over here—
+Camilla: Stop. I don't even want to know about it. I'm just glad you made it here in one piece.
+With Odin
+C Support
+Camilla: ...
+Odin: Lady Camilla, I—what vexes you? Your face speaks of cares. May I destroy one for you?
+Camilla: Hmm? Odin... No, it's nothing.
+Odin: I see. Well... pardon my intrusion, then.
+Camilla: Oh—not at all. Did you need something?
+Odin: Ah! I had quite forgotten in my concern, but I did have query to put to your royal ears.
+Camilla: Go ahead. Ask what you like.
+Odin: Lady Camilla, would you do me the honor of revealing... the name of your armor?
+Camilla: What? Why? Did you want to wear it, too?
+Odin: Wear it...?! I-I hadn't even considered such a privilege! But even now I see it in my mind's eye... Milady is truly a visionary... Garbed in this raiment, I would be as an angel in flight...
+Camilla: Odin? Is that mumbling directed at me?
+Odin: Wha—? Oh, no, nothing! My thoughts soared to the lofty heights of heaven. But the truth is that I have always admired milady's extraordinary armor!
+Camilla: Extraordinary? You're talking about the armor I'm wearing now?
+Odin: The same! That ebony finish... so, so black... Like staring into a raven's pupil at night! Naturally I wondered what sublime name milady could have chosen for such treasure. Even now, the anticipation of hearing its name pierces me with soul-knives of agony!
+Camilla: Well, I hate to disappoint you, but... it's not the sort of thing I would give a name to.
+Odin: But... this injustice cannot be allowed to stand! Such armor cries out for an identity!
+Camilla: If you feel that strongly, why don't you name it?
+Odin: Really? Milady would trust me with this sacred task?
+Camilla: I can think of no one more qualified for the job than you, Odin. I look forward to hearing what you come up with.
+Odin: I swear by the rich crimson of my blood that I will not fail you, milady!
+B Support
+Odin: Lady Camilla! I have given considerable thought to a name for milady's armor.
+Camilla: Oh... right. I was... getting tired of waiting. Well? Tell me what you've come up with.
+Odin: Of course! Prepare your ears for grace! With no more delay, its luminous name is... rendered in the tongue of our land. It reminds of, like the armor itself, of the glorious night sky. I give you... Grossartig Mond, the great moon! Er... what does milady think?
+Camilla: Grossa... What did you say to me?
+Odin: Grossartig Mond. I meditated on the image of milady's armor from inside a dark chasm. It took two hours to climb to the bottom... Four to climb back out. But it was worth it! As I lay in darkness, words floated gently into my mind from on high. The first was "Grossartig." The meaning is noble, ample, and beautiful. Then came "Mond," the moon, the bright center around which the night revolves! The masterstroke of my revelation was to combine the two bold terms! Behold! Grossartig Mond!
+Camilla: ...
+Camilla: I see. This is a fine name. Thank you, Odin.
+Odin: What? "Fine"? No, this will never do! I fear milady is far too cavalier with such a grave matter! Surely we must discuss the finer points before committing to this course!
+Camilla: What is there to discuss? I've taken quite a liking to the name, and I will use it.
+Odin: A-are you sure...? I mean, milady is not simply pushing the matter aside? You truly like the name?
+Camilla: Yes, of course.
+Odin: ...
+Odin: I confess I didn't think the first candidate... A disastrous miscalculation...
+Camilla: Is there a problem? And what is that stack of papers in your hands?
+Odin: Nothing! Just a few more possible names for milady's armor. A mere ten... dozen.
+Camilla: Ten DOZEN? You mean to tell me you have one hundred and twenty names there?!
+Odin: Y-yes, I thought I would ask milady to pick whichever suited her from this pile... And, alas, that won't be necessary! B-but not a problem at all! I'll take the remaining 119 and burn them so their inferiority shan't trouble you again!
+Camilla: Well, I'm sorry for your wasted effort, but... thank you, Odin. All of this trouble for me... It's really very touching.
+Odin: Think little of it, milady. Some men fight, some men preach—I name.
+A Support
+Camilla: Ah, Odin. Thank you again for your hard work naming my armor. I mentioned it to Corrin, and he/she thinks the name suits me perfectly.
+Odin: R-really? Can this be true?
+Camilla: Yes, of course. Why would I make that up?
+Odin: It's just...such an honor... to know that my sublime meditations and supreme effort are seen and appreciated...
+Camilla: Wait, what is the matter, Odin?! You're crying!
+Odin: N-no... These aren't tears at all... They are but watery vagabonds in search of adventure. Wanderers seeking escape... from my face.
+Camilla: I-I see... Thank you, Odin. I had a lot on my mind— the war, the future of Nohr, and so on. But everything seems clearer now—thanks to the name you gave my armor.
+Odin: But of course, milady, I live to— Wait, really?
+Camilla: This armor is now called Grossartig Mond. It holds the spirit of the moon itself... Thinking of it that way gives the armor an identity, and helps me solidify mine. I feel like I've gained a clearer picture of the warrior and the ruler I want to be... And that's because of you, Odin. Thank you.
+Odin: ... Ha! Hahahaha! My joy is like a fearsome predator! It hunts down baser emotions and rips out their vitals in a savage banquet of laughter!
+Camilla: Odin? You're talking to yourself again.
+Odin: Ah. My sincerest apologies, milady. I was enraptured by a realm of epicurean atrocity! Even brought back to earth, I must say I feel better than I have in ages.
+Camilla: Have you not been feeling well, Odin?
+Odin: I would never want to burden you, milady, but since you asked... The truth is...I haven't been naming things with my usual effortless grace and aplomb. But since you took to Grossartig Mond so immediately... My confidence and limitless naming power have returned!
+Camilla: That's wonderful, Odin. Truly.
+Odin: Yeeeessss... I feel the power radiating from each mighty drop of my peerless blood... I should go, lest the force of it scorch your fair skin like the summer sun.
+Camilla: Before you go, Odin, let me say this: the world is a more joyful place with you in it. And don't hesitate to come tell me your troubles. You will always have my ear.
+Odin: Your generosity humbles me, milady. And that is no easy feat. I thank you with each separate hair on the back of my mighty hand.
+S Support
+Camilla: Odin, you wanted to talk to me? What's the matter?
+Odin: W-well, milady, you see...it's...
+Camilla: You're not losing your self-confidence again, are you? If so, I have something to tell you. I've been telling our other companions in the army about my armor's name as well. And literally every one of them wants you to give a name to their weapons and armor!
+Odin: Oh...I see...
+Camilla: You aren't happy? I expected an explosion of verbose excitement and pride.
+Odin: Eh? Oh, I am honored, of course... but I must refuse.
+Camilla: Why ever would that be?
+Odin: In times past, I would have been glad to take on their request. But now I feel differently.
+Camilla: I see. Have your naming powers deserted you again?
+Odin: They have, and the reason, Lady Camilla... is you.
+Camilla: What? M-me?
+Odin: I named Grossartig Mond after meditating on an image in my mind... You rode into battle, resplendent in the armor's defensive embrace... Had I pictured any other, lesser person, such a naming would be impossible. I'm afraid my nominative prowess, and with it, my life, is now in your exclusive service.
+Camilla: Wait... Odin, are you saying what I think you're saying?
+Odin: Yes, milady. It is time to put voice to what my soul has been bellowing for ages... I love you. I love you with my entire being, down to the sacred blood in my veins. Please take this. It is...a bridge that links us, like the rainbow that links the worlds.
+Camilla: Is this...an engagement ring?
+Odin: To employ base liberality for a moment, yes. I would ask for your hand in marriage. That is why I came to see you today. But if you're going to refuse, please do it quickly. I'm ready.
+Camilla: Refuse? Why would I? I would love nothing more than to have you for my husband!
+Odin: Can this be true? Or do my wicked ears conspire with each other to deceive me?
+Camilla: It's very true, Odin. I should tell you, though—I want to have children. I hope you are up to the task of naming them...
+Odin: I will meditate harder than ever! I'd best get started at once!
+With Niles
+C Support
+Niles: Lady Camilla, just the person I was looking for.
+Camilla: Oh? Did you want to ask me something?
+Niles: Yes. I'm curious... Why do you shower so much affection on Lady/Lord Corrin?
+Camilla: What do you mean? I love Corrin! He/She's a sweetie! Plus, he/she had a terrible childhood. I think he/she deserves a little kindness now!
+Niles: As I suspected! Your so-called love is nothing more than pity. You're probably one of those people who brings home lost puppy dogs too.
+Camilla: Of course I would! Who would leave a cute, little puppy out in the cold?
+Niles: Heh heh...
+Camilla: *gasp* You would, wouldn't you?! Niles, you're terrible!
+Niles: There's a reason you fixate on helping poor, pathetic creatures!
+Camilla: Is that so? And what's that?
+Niles: You live a pathetic existence. You're trying to make yourself feel better!
+(Niles leaves)
+Camilla: Niles? Get back here! You can't say something like that and run away! Coward!
+B Support
+Camilla: Niles! I've been looking everywhere for you! It's time for you to explain yourself!
+Niles: Ah, I love it when you get all feisty. Your cheeks are turning red! Were you saying something? I can barely concentrate when you're like this!
+Camilla: Enough! You better explain what you meant the other day when you said I was pathetic!
+Niles: Fair enough. Lady Camilla, do you know why people love puppies?
+Camilla: Because they're cute...?
+Niles: No! It's because people want to be loved.
+Camilla: Huh?
+Niles: They want companionship—a person to come home to, and if they can't get it... They'll settle for a furry creature who'll greet them and slobber on their shoes. This is the same relationship you have with that lost, little puppy—Lady/Lord Corrin. You're miserable, so you shower her/him with affection, and that puppy slobbers back!
+Camilla: Are you calling Corrin a dog? That's disgusting!
+Niles: Oh, I like that hostile look on your face. It's giving me chills! Do you want to know where I came up with this theory? I'll tell you!
+Camilla: You better!
+Niles: My parents abandoned me in the slums of Nohr. I was raised by thieves and criminals. I learned fast. I did what had to be done to survive! So forgive me if I'm a little jealous. When I see someone who is oblivious to suffering, I like to give them an education. That moment when they discover their first taste of pain is pure bliss!
+Camilla: Niles, you're a sad person.
+Niles: Am I? For someone so sad, I'm having an outrageously good time!
+A Support
+Niles: Lady Camilla, I heard you were looking for me. You know I adore being summoned.
+Camilla: The other day, you said you like to prey on people who've never known suffering.
+Niles: Oh, yes. I like where this is going.
+Camilla: Well, you were wrong to pick me!
+Niles: Huh?
+Camilla: I know what you thought! She's royalty! She must be happy! Her life is perfect! You're wrong! I wasn't born in the slums, but my childhood wasn't all roses either.
+Niles: What?
+Camilla: Oh. Didn't you know? Xander is the only one of my siblings born to the queen. The rest of us—Leo, Elise, and I—we're all children of King Garon's mistresses. Different mistresses, I might add. He loved to pit our mothers against each other.
+Niles: I had no idea.
+Camilla: Our mothers were the lowest of the low, trying to claw their way to a better status. Naturally, they used us as bait in all of their conflicts.
+Niles: Lady Camilla, I'm—
+Camilla: You said I was pathetic, and you were right! My mother loved me, but only as a pawn. Do I dote on Corrin? Yes, I do! I remember what it feels like to be alone!
+Niles: I'm so sorry. I was wrong about you! You disguise your pain well. I didn't realize.
+Camilla: I didn't tell you all this so you could apologize. I want you to think twice before you judge someone else so unfairly!
+Niles: I'm so ashamed. You must beat me! Here, I deserve to be punished.
+Camilla: I'm not going to beat you!
+Niles: Please, strike me across the face. I'll wait.
+Camilla: Seriously, Niles. I'll pass. If you want to be flogged, you'll have to do it yourself.
+S Support
+Niles: Lady Camilla, I found you! I wanted to tell you how sorry I am—
+Camilla: Niles, this is the fifth time you've apologized! I told you! We're fine!
+Niles: I'm afraid I have another matter to beg your forgiveness for.
+Camilla: Huh?
+Niles: I lied. I never thought you were pathetic. I asked you all of those questions about Lady/Lord Corrin because I was jealous.
+Camilla: Jealous?
+Niles: Here you were showering all of that love and attention on Lady/Lord Corrin...I wanted it to be me.
+Camilla: Oh? Is that all?
+Niles: What? You're not mad? I said terrible things about you and Lady/Lord Corrin!
+Camilla: Niles, there's plenty of love to go around!
+Niles: But I tormented you!
+Camilla: And your childhood was full of torment! It all makes sense. I feel very protective over Corrin, and I've started to feel the same way about you. Funny, isn't it? I actually think you're kind of cute.
+Niles: Huhhhhh?!
+Camilla: What's the matter?! Cat got your tongue?
+Niles: Yes! I mean, no! I mean, wait! Oh! What's wrong with me?!
+Camilla: I think you're like an adorable little puppy I just caught chewing on my shoes! Know that I know your story, I don't mind your rough talk. ...It's kind of amusing.
+Niles: Well, Lady Camilla, there's plenty more where that came from!
+Camilla: I hope so.
+Niles: Come over here. I'll whisper more of these naughty, little words in your ear.
+Camilla: Niles!
+Niles: Was that too much? 
+With Laslow
+C Support
+Laslow: Ah! Lady Camilla. Fancy meeting you here.
+Camilla: Why, Laslow. What serendipity! Out for a stroll, perchance?
+Laslow: Yes, a change of pace seemed in order. And it appears I chose just the place! Any day on which I run into you, Lady Camilla, is a fine day indeed.
+Camilla: Are you really so pleased to see me?
+Laslow: But of course! You're a welcome sight at all times, Lady Camilla.
+Camilla: Hmhmhm. You don't fool me, Laslow. If what my brother says is true, you say the same to every girl you meet.
+Laslow: That makes me sound like a scoundrel! I wouldn't be so insincere as to say it to a woman who wasn't worthy. It's just that, to me, every woman meets that criteria...
+Camilla: How gentlemanly... and how convenient.
+Laslow: It's no mere excuse. Every woman is beautiful, if you look for it. Even so, your radiance outshines the pack, if I may be so bold.
+Camilla: Ahaha... why, thank you.
+Laslow: What do you say we go out for some tea, just the two of us?
+Camilla: Hmm... I'll do it on one condition. Promise me you won't flirt with or woo any other woman, ever again. Do that, and the tea will be my treat.
+Laslow: Wh-what you ask of me... it's impossible. There's simply no way.
+Camilla: Then enjoy your teatime alone.
+B Support
+Laslow: I can't figure you out, Lady Camilla. You have layers...
+Camilla: I don't think I'm so complicated, am I?
+Laslow: You're warm and kind... But at the drop of a hat, you can also turn steely and harsh. Yet you seem to wear both attitudes quite comfortably.
+Camilla: Could the same not be said for everyone?
+Laslow: Perhaps. But it seems especially true in your case.
+Camilla: I'm not the enigma you believe me to be. I'm kind to my allies and cruel to my enemies in equal measure.
+Laslow: You do take a certain relish in showing your enemies no mercy, I've noticed. Watching you in battle makes me relieved that I don't count myself among them.
+Camilla: Why should I show mercy to my enemies? They are obstacles to be eliminated.
+Laslow: Is it always so black and white? I wonder. What if your enemy was someone you knew well? Surely you'd hesitate then.
+Camilla: What a soft heart you have, Laslow.
+Laslow: Why, thank you, Lady Camilla. I could say the same for you.
+Camilla: ...It wasn't precisely a compliment. But so long as you never betray me, you will always have my favor.
+Laslow: As long as you give me withering looks like that, I'd never dream of it...
+Camilla: Ahaha! Pardon me.
+Laslow: Please know that I would never betray you regardless, Lady Camila. You may place your utmost trust in me.
+Camilla: Of course, dearest Laslow. I was just considering the corner cases where you might make the wrong choice. I thought up a fair few deliciously cruel punishments to inflict upon you...
+Laslow: D-did you now.
+Camilla: "Punishments" might be the wrong word. "Torments" is more apt for the levels of pain I had in mind.
+Laslow: I-I'll be sure to factor that in, should the decision every arise...
+Camilla: Very wise of you. Better to be in my good graces than in my torture dungeons, hmm?
+A Support
+Laslow: La DA, la da DA, laa da daaa... ♪
+Camilla: You sing as beautifully as you dance, Laslow.
+Laslow: Lady Camilla?! It's rude to watch without making your presence known. I like to know when I'm performing for an audience.
+Camilla: Hmhmhm! I was too spellbound by your performance to say anything. I've not seen that style of dance before, though.
+Laslow: I don't suppose you would have. It originates from a faraway kingdom.
+Camilla: Is that where you hail from?
+Laslow: For simplicity's sake, let's say yes.
+Camilla: You must have traveled a very long way to get here, then.
+Laslow: Ahahaha. More than you know.
+Camilla: Yet you fight alongside us, on our behalf.
+Laslow: Is that so wrong?
+Camilla: Not wrong. Merely...odd. Why remain here, among us? Surely your own kingdom has its problems as well.
+Laslow: Because I believe that what we are doing is right.
+Camilla: But you have no ties to this land. No special reason to be here.
+Laslow: That's a dreadful thing to say. I may not have been born and raised here, but I have many dear friends. Is it that odd that I would stake my life fighting for them?
+Camilla: Not when you put it that way, no.
+Laslow: If you have doubts as to my true allegiance, Lady Camilla, let me put them to rest. I stand firmly with you and yours, and always have, and always will.
+S Support
+Laslow: Lady Camilla, I must have a word with you, if you have the time.
+Camilla: I do, Laslow, but please make it brief. I've other things to attend to.
+Laslow: Then I'll keep this short and to the point. Lady Camilla, will you marry me?
+Camilla: ...Be seated, Laslow.
+Laslow: Y-yes, milady. Erm...you're not...angry, are you?
+Camilla: I am beyond angry, Laslow. I am furious. One might even say livid.
+Laslow: But why?! What have I done to offend you?
+Camilla: I don't mind your little teases and minor flirtations. I've come to expect them. But this is taking such behavior to a level that is beyond the pale. A marriage proposal is not interchangeable with your other opening lines. It is a serious thing. Do you not see the gravity of your words?
+Laslow: My apologies, Lady Camilla, if you took it as another of my usual advances. The fault may be mine for delivering it without the appropriate solemnity. But make no mistake, I do indeed want your hand in marriage.
+Camilla: Laslow...
+Laslow: I have a reputation as a ladies' man, but my feelings for you are genuine. Once more, sincerely... Will you marry me?
+Camilla: If I said yes...IF...would you cease hitting on other women?
+Laslow: W-well...in all honesty, probably not. But I can swear none of them would mean anything when I have you, Lady Camilla.
+Camilla: That's a bit unfair to me, no?
+Laslow: I can't deny that. Yet I also cannot help myself... It's who I am.
+Camilla: Then I suppose I am bound to overlook it.
+Laslow: Huh?
+Camilla: I'm very fond of you, Laslow. And if that's part of you, then I'm fond of that part too. But I must be your only true love. If I ever have cause to doubt that, you will know such suffering. You'll be left to rot in my dungeon as a test subject for cruel new tortures.
+Laslow: M-milady, I wouldn't—!
+Camilla: Ahahah, I shouldn't tease. But, like you, I can't help myself. Don't worry. As long as I am foremost in your thoughts, you'll remain safe. Safe from all except my crushing embrace, that is...
+Laslow: Lady Camilla... I vow to you that no matter what I might do or say to any other...my heart belongs to you, and you alone.
+Camilla: I'll hold you to that, my lovely man.
+With Selena
+C Support
+Selena: I'm done with my patrol, Lady Camilla. Nothing to report.
+Camilla: Thank you, Selena. You did make sure to investigate the basements, yes?
+Selena: Don't worry about a thing! I checked high and low.
+Camilla: Very good, very good. Well done, Selena.
+Selena: Just doing my job! Hey, um... I'm your favorite retainer, right?
+Camilla: You're very dependable.
+Selena: OK, but that's not what I asked. I won't rest until I know I'm the best!
+Camilla: Ahahah! You're a strong, cute girl. Isn't that enough?
+Selena: You're just dodging the question... But it's clear enough that you care about me. That's all I want!
+Camilla: Each and every one of my retainers is precious to me. You are no exception, darling Selena. You are so dear to me that I would slay you myself rather than let you leave my service.
+Selena: Lady Camilla...that's not the reassurance I was looking for...
+B Support
+Selena: Lady Camilla? Why did you decide to take me on as your retainer?
+Camilla: I confess, I had my doubts at first. Even though my father introduced us, I was hesitant, as I knew nothing about you.
+Selena: Yeah, makes sense...
+Camilla: But I have a weakness for lovely girls, so I warmed to the idea quickly enough.
+Selena: I don't know how "lovely" I am next to you, though.
+Camilla: That was not your only qualification. I saw you fight the academy's finest and win. But above all else, I appreciated your devotion to me.
+Selena: I would never dream of questioning you, Lady Camilla.
+Camilla: I consider myself blessed to have such a darling, powerful, and obedient retainer. I hope to keep you among my retinue for a long time to come.
+Selena: Well, about that. Hypothetically speaking, if I really needed to get back to my homeland someday... Would you be sad to see me go?
+Camilla: You know I would. I would cry until I had no tears left to mourn with. But in the unlikely event such a thing would come to pass... I would also consider cutting off your legs so that you could not leave me.
+Selena: ...You're joking, right?
+Camilla: Ahahaha. Would I ever do something so dreadful to you, my adorable girl?
+Selena: Ahahaha... Why are we laughing?
+A Support
+Selena: I'm back from patrol again, Lady Camilla! All clear as far as the eye can see!
+Camilla: ...
+Selena: Um... Lady Camilla?
+Camilla: Selena. My precious retainer. My strong, lovely warrior...you are mine and mine alone.
+Selena: Lady Camilla, you're kind of creeping me out here.
+Camilla: Hmph. I was in a melancholy mood. I've been dwelling on how you came to me like a bolt from the blue. And how you might disappear just as suddenly...
+Selena: Oh...I don't know what to say.
+Camilla: Pay it no mind, dear. I'm sure these fears are utterly baseless.....
+Selena: ...
+Camilla: But never forget. I am the only home you have.
+Selena: Of course, Lady Camilla. I would never leave you without fair warning.
+Camilla: And I can hold you to that, yes?
+Selena: What a question! Do you think I'd lie to you about this? About anything?!
+Camilla: Ohohoho...no, never.
+Selena: If the day comes for me to leave, you will be the first to know. I can promise you that. So please, don't worry so much.
+Camilla: If you say so, darling Selena...
+With Beruka
+ C Support
+Camilla: Hello, Beruka.
+Beruka: Lady Camilla. Do you have an assignment for me?
+Camilla: Not at the moment. I simply wanted a chat with my darling retainer.
+Beruka: Is that an order?
+Camilla: Ahahah! So cold, Beruka.
+Beruka: I always obey your orders, of course. I know my place. But if there is no assignment, I would rather not waste time talking.
+Camilla: Oh? In that case: I formally order you to bide a while and talk.
+Beruka: ... I'm not...a good conversationalist.
+Camilla: Ahaha, I know that full well, dear Beruka. Would you rather I had you do something to amuse me?
+Beruka: I am an assassin, not a court jester.
+Camilla: Oh dear. Have I upset you? I only tease because I love, dear. Surely you understand.
+Beruka: I wouldn't know...
+Camilla: Hoho... what would I do without you?
+B Support
+Camilla: Beruka...do you recall the circumstances of our first meeting?
+Beruka: ...Please don't remind me.
+Camilla: You kept repeating something, over and over..."I can't return until you're dead." You reminded me of a doll whose windup mechanism had broken.
+Beruka: My orders at the time were to kill you.
+Camilla: Oh, I remember full well. I warned you not to attempt it, but you were miles away, mentally.
+Beruka: For an assassin, the mission is everything. To abandon it is unthinkable.
+Camilla: Yet you didn't kill me.
+Beruka: No. But only because you hired me on the spot.
+Camilla: Becoming your new employer was the only way I could see to save you from yourself.
+Beruka: I wasn't saved. I only took a better offer.
+Camilla: Is that still how you feel about me? I'm a generous paymaster and nothing more?
+Beruka: It's hard to say. But our professional relationship is what keeps me at your side.
+Camilla: In that case, if another patron were to offer you an even greater sum...would you accept a contract on me, if you were so ordered?
+Beruka: ...I might.
+Camilla: Oh dear.
+Beruka: But I would need more than money from any new master. I would also have to trust her more than I trust you.
+Camilla: Ah! Well. That's something of a relief.
+A Support
+Beruka: Lady Camilla...
+Camilla: Hello, Beruka. What can I do for my favorite retainer?
+Beruka: I will never betray you as long as I remain in your service.
+Camilla: Beruka, I didn't doubt—
+Beruka: I will carry out every mission to the letter of your command. I was afraid you might have misunderstood me last time. But I have only ever betrayed one employer.
+Camilla: The man who ordered me dead?
+Beruka: Yes. He double-dealt and went back on his word. I took his contract only because I was desperate. But I couldn't trust him. That's why I took your offer immediately.
+Camilla: And what if the day comes when you meet an employer more trustworthy than I?
+Beruka: I would sign on with her without hesitation.
+Camilla: Ask a silly question, I suppose...
+Beruka: But I don't expect to meet an employer more trustworthy than you, Lady Camilla. You've always been kind to me, though I have nothing I can give you in return.
+Camilla: Beruka...you discredit yourself.
+Beruka: All I can do is carry out every mission you give me to the letter.
+Camilla: That's all I ask, dear. But don't throw yourself away in the process. I don't want to lose you. You're too important to me to watch you die on my behalf.
+Beruka: ...Is that an order?
+Camilla: Yes. Yes, it is.
+Beruka: Understood. My employer's orders are absolute.
+Camilla: See that you follow them to the letter.
+With Benny
+C Support
+Camilla: Oh, hello, Benny. How fortunate to have run into you like this.
+Benny: Good day, Lady Camilla. Is there something I can help you with?
+Camilla: Indeed. There have been reports of a bear wandering around the nearby forest. Would you be a doll and take care of it for me?
+Benny: Take care of it? I'm not sure what you mean.
+Camilla: Well, I'm sure it'll probably just keep to itself out in the woods, but... It's better to be safe than sorry. I don't want to know any of the details, of course.
+Benny: I see.
+Camilla: Benny, what's the problem? Surely you agree we can't have a wild bear traipsing about! And I'm certain a brave and decorated soldier like yourself has nothing to fear...
+Benny: Your wish is my command. Leave the bear to me...
+Camilla: Splendid. I knew you'd come through for us.
+Benny: Hmm...
+B Support
+Camilla: Hello, Benny. How goes the bear hunt?
+Benny: The situation is resolved, Lady Camilla.
+Camilla: I knew we could count on you. Tell me, was any of the meat fit for consumption? Some consider it a delicacy.
+Benny: Oh, about that. I didn't kill the bear.
+Camilla: Excuse me? Why the devil not? You agreed to take care of it!
+Benny: That's just it. I have taken care of it.
+Camilla: And how do you know that? What have you actually done?
+Benny: I...persuaded the bear to move on.
+Camilla: Bwahaha! And how does one persuade a bear, exactly?
+Benny: Easy. With food! The bear was starving and weak. I lured it to an adjacent valley with lots of berries and a stream packed with fish. He'll be quite happy there, I'm sure.
+Camilla: I'm not sure about your plan. How can you be sure the bear won't return?
+Benny: When I was young, the only friends I had were the creatures in the forest. I learned a great deal about their behaviors. This bear will not cause us any trouble.
+Camilla: Fair enough. I'll let everyone know that they have nothing to fear, thanks to you.
+Benny: Thank you.
+Camilla: Yes...a man so powerful he needn't kill a bear, but rather TAME it! This makes for a wonderfully heroic tale, Benny. Oh, yes...
+Benny: If you say so.
+A Support
+Benny: Lady Camilla, do you have a moment?
+Camilla: Hello, Benny. What's the matter?
+Benny: I'll have you know that I have never punched a bear in the face.
+Camilla: Excuse me? What are you talking about?
+Benny: I've heard people talking. They're saying that's how I took care of the bear.
+Camilla: Oh ho! So the story has taken on a life of its own. I think it's a fair bit more interesting than the truth. Don't you agree?
+Benny: But...a man who would punch a bear in the face...
+Camilla: ...is so fearsome that his mere appearance would drive enemies from the battlefield!
+Benny: Well, that would be useful. But unlikely, I fear. What seems to be happening instead is that my own allies are terrified of me.
+Camilla: Aw, you poor lonely thing.
+Benny: I've been trying to clear things up, but I'm not a great speaker... And people keep running away from me.
+Camilla: Just like the bear, right? Hah!
+Benny: I'd like to think that the bear thought of me as a friend.
+Camilla: All right, Benny. Sorry for joking around. I'll help clear things up.
+Benny: Really?
+Camilla: Of course. We can't have one of our strongest warriors fret over such frivolities.
+Benny: Thank you, Lady Camilla.
+Camilla: Punching a bear in the face... You know, if anyone could pull that off, it'd be you.
+Benny: If it's all right with you, I'd rather not find out.
+S Support
+Benny: Lady Camilla.
+Camilla: Hello, Benny. Can I help you?
+Benny: I'm not good at talking with people...
+Camilla: You don't say? I hadn't noticed.
+Benny: Is that sarcasm? That wasn't rhetorical; I genuinely can't tell. Actually, it doesn't matter. I have something I need to tell you, Lady Camilla.
+Camilla: And what's that?
+Benny: Perhaps I should just let my actions speak for me. Will you accept this?
+Camilla: A ring?
+Benny: Yes. This is how I feel about you.
+Camilla: I don't get it.
+Benny: Really?
+Camilla: No, not really! But you need to look me in the eyes and tell me how you feel, Benny!
+Benny: But, Lady Camilla...
+Camilla: But nothing! You don't need to be the most eloquent speaker in the world. But I would like to hear you express your feelings for me with real words. After all, I suspect this is a moment that I'd like to treasure for the rest of my life.
+Benny: Very well. I love you, Lady Camilla. Will...will you marry me?
+Camilla: Well, well, well. You were able to get the words out just fine.
+Benny: Yes. I wasn't sure that I could, but then... I imagined that you were a bear.
+Camilla: What?!
+Benny: Uh...a bear. I pictured you as a bear. To assist in my marriage proposal. The concept seems straightforward...
+Camilla: Oh, Benny.
+Benny: Sorry.
+Camilla: No, don't apologize. That's just who you are. And I've come to realize I love that person.
+Benny: Um...
+Camilla: So, I will happily accept your ring.
+Benny: Really?!
+Camilla: Yes. I've fallen for your gentle, awkward ways. Is that so strange?
+Benny: Um...
+Camilla: Let's build a future together, Benny!
+Benny: Well, that went better than I expected. Perhaps I should speak up more often...
+Camilla: Let's not go that far, dear.
+With Keaton
+C Support
+Keaton: Wow, this is awesome.
+Camilla: Hello, Keaton. I hadn't expected to meet you here, of all places.
+Keaton: Oh! Camilla! You're just in time to see something awesome! Look! Look in this hole!
+Camilla: That's not a "hole" so much a small cave. What did you say you'd found in here?
+Keaton: I can't tell you—it would spoil the surprise! Just hurry up and look!
+Camilla: I was just about to. There's no need to rush me. Oh my. These bones are...human. And there are so many...
+Keaton: Isn't it great? They're so pretty when they've been picked clean like this.
+Camilla: Yes, they do seem to have been here for quite some time. Might this be an ancient burial ground?
+Keaton: I'd take them all home with me, but I don't think I could carry them all.
+Camilla: Why would you bring a bunch of bones home with you?
+Keaton: Are you kidding?! They'd be the centerpiece of my table!
+Camilla: To each his own...
+B Support
+Keaton: Camilla, there's an emergency!
+Camilla: An emergency? What's happened?
+Keaton: No time to explain! It's that bad!
+Camilla: Calm yourself, Keaton. If you want my help with whatever it is, you must explain the situation first.
+Keaton: Wh-who said I wanted your help?!
+Camilla: Suit yourself. In that case, good day.
+Keaton: Camilla, wait! I'm sorry! I'll explain! Don't gooooooo!
+Camilla: What seems to be the problem?
+Keaton: I can't get back there! You know, to the bone hole!
+Camilla: "Bone hole"? I hope for your sake that you mean the burial ground you showed me.
+Keaton: Yeah, that! I can't get there anymore!
+Camilla: You haven't forgotten the way, have you?
+Keaton: Psh! Me? I totally know the way! I just keep going around in circles when I try to follow it for some reason.
+Camilla: Which is another way of saying you've forgotten.
+Keaton: Believe what you want. Let's not get hung up on fiddly details. The point is, I want to see the bone hole again! You do too, right? Who wouldn't?
+Camilla: I'll decline. I've never been a connoisseur of human remains.
+Keaton: *sniff* So that's how it's gonna be...
+Camilla: Oh, very well. Come with me, then.
+Keaton: Hooray! I knew you'd be dying to see it again!
+Camilla: On the contrary; I'm guiding you there because you seemed on the verge of tears.
+Keaton: I-I...I wasn't gonna cry!
+Camilla: Then you won't mind if I don't take you there.
+Keaton: *sniffle* Nooooo...
+Camilla: Hmhmhm. I thought as much. You're adorable when you're pitiful. Shall we be going, then? Follow me.
+Keaton: Hmph. I feel...used, somehow.
+A Support
+Keaton: I can't get over how cool the bones in here are!
+Camilla: How long are you planning on staring at those?
+Keaton: Man, who knows. You'd think it would've gotten old by now, but it never does!
+Camilla: Meanwhile, I was bored hours ago, so I'll be heading back now.
+Keaton: W-wait...you're going back by yourself?
+Camilla: Unless there's a problem, yes.
+Keaton: No, it's just... You might run into trouble on the way home, yeah? Which would be dangerous if I wasn't there with you.
+Camilla: I don't run afoul of bandits, dear. They run afoul of me.
+Keaton: Hmm...yeah, you'll probably be fine.
+Camilla: Keaton, if you don't think you can get home on your own, simply say so.
+Keaton: Wh-what a thing to say! Of course I can get home by myself!
+Camilla: Excellent. Then I'll be on my way.
+Keaton: Urgh... C-c'mon, I'll just be a little longer, and then we can go home together.
+Camilla: ...If you insist.
+Keaton: Heheh! Sorry, Camilla. But you don't find bones like these just anywhere!
+Camilla: Thank goodness for that. Most people would be uneasy around them.
+Keaton: Oh yeah? How come? Gosh, if THIS makes them nervous, they'd better never visit my hometown. The whole place is littered with the bones of people I've killed.
+Camilla: Erm...is it now.
+Keaton: Yup! You can hardly take three steps without tripping over 'em! It's 'cause I killed every last jerk who came to take my pelt.
+Camilla: I see. So that's why I detected the stench of blood on you.
+Keaton: What?! But that was months ago...and I bathed just last week...
+Camilla: A bath won't suffice. The scent of blood seeps deep beneath the surface.
+Keaton: Huh. Who knew?
+Camilla: It's never bothered me, mind you. I'm only telling you for your information. Now come along, or I really shall leave you behind to find your own way.
+Keaton: W-w-wait up!
+S Support
+Keaton: Hey, Camilla?
+Camilla: What is it, Keaton?
+Keaton: I think you need a strong man.
+Camilla: You have 10 seconds from the end of this sentence to reconsider that remark.
+Keaton: No, no, think about it! You're going to get married someday, right?
+Camilla: Only a wolfskin could dig himself this deeply, this quickly.
+Keaton: Come on, just hear me out! Whatever man you marry has gotta be strong. A real tough guy.
+Camilla: That seems sensible.
+Keaton: Right?! Saaaay...how many bandits did I take down by myself the other day? I forget.
+Camilla: ...
+Keaton: Normally I'd remember, but they were such lightweights, I barely noticed 'em.
+Camilla: This can't possible be what you're driving at, but...
+Keaton: Wh-who, me?
+Camilla: Are you slowly coming around to asking me to marry you?
+Keaton: Whaaaaat? Pfffffft! Pssssh! Haaaaah! ME? Marry YOU? What a crazy idea I've never thought about before!
+Camilla: I see... My mistake.
+Keaton: Uh, well, wait! Now that you bring it up...it gets me to wording if maybe, you know...
+Camilla: What is it?
+Keaton: Grrrrrrrh! Fine! You're gonna make me come out and say it, huh?
+Camilla: That's correct. I haven't the time for anyone who can't muster the courage to ask for himself.
+Keaton: F-fine! You asked for it! ... P-please marry me, Camilla.
+Camilla: ...
+Keaton: Look! I found a ring somewhere for you and everything! It's a beaut!
+Camilla: ...
+Keaton: Camilla, you're killing me. Say something...
+Camilla: I accept your proposal...if not your ring.
+Keaton: What?! Really?!
+Camilla: You're a cheerful, friendly fool, and yet... you have that intriguing reek of blood beneath it all. I'm drawn to the parts of you that you're careful to keep hidden.
+Keaton: I-I'm not sure what you mean by that, but you're serious? You'll marry me?
+Camilla: Gladly.
+Keaton: Wow! What a day! Thanks, Camilla! Yesssssssssssss!
+Camilla: It's going to be like this all the time from now on, isn't it? Ah well...
+With Ryoma
+C Support
+Camilla: Prince Ryoma, do you have a moment?
+Ryoma: Of course, Lady Camilla. What is it?
+Camilla: Well, I was speaking with Corrin, and the topic of our relationship came up.
+Ryoma: Oh?
+Camilla: Yes. He/She said he/she has high hopes that we will be able to put aside our differences. For the good of each of our kingdoms, of course.
+Ryoma: Hmm. It would seem an admirable goal. You can count on my support. I also hope for fair trade between Nohr and Hoshido when all is said and done.
+Camilla: Oh, me too! Perhaps we have a great deal in common after all.
+Ryoma: Yes, perhaps...Ahem.
+Camilla: Or, perhaps not. This is a bit awkward. What should we talk about?
+Ryoma: How about something we are both well versed in—the art of war? There's nothing like a well-balances katana in the heat of battle, don't you agree?
+Camilla: Oh, not in the least. I find most katana terribly chunky and useless.
+Ryoma: Oh.
+Camilla: Well, perhaps you could teach me something about the women of Hoshido. What sort of things do they like? What's fashionable at this time of year?
+Ryoma: Fashionable? I'm afraid I don't know much about that. Although, I have been told that my summer armor is a bit "jaunty."
+Camilla: Well. It seems we don't really have anything to talk about.
+Ryoma: There must be a common thread. Something we both know a lot about...
+Camilla: Oh, I've got it! Corrin!
+Ryoma: Hmm?
+Camilla: Don't you see? Corrin is the twine that binds us together. We're fighting side by side because of our devotion to him/her.
+Ryoma: Indeed! I could speak about Corrin for hours. What would you like to know?
+Camilla: What would I like to know? I already know everything there is to know! But I wouldn't mind sharing MY extensive knowledge with you, of course.
+Ryoma: Excuse me?!
+Camilla: After all, I've spent more time living with him/her than you have, right?
+Ryoma: You are not the only one with deep feelings for Corrin, Princess Camilla. I would also give every ounce of strength I have for him/her.
+Camilla: Oh...
+Ryoma: Hmm...
+Camilla: Perhaps we are still at a loss. I'm sorry, Prince Ryoma.
+Ryoma: No, my apologies. It seems that forging a new relationship is easier said than done. But we mustn't give up. We're doing this for Corrin, after all.
+Camilla: Of course. And Corrin comes first.
+Ryoma: Always.
+B Support
+Camilla: How do you do, Prince Ryoma?
+Ryoma: Good day, Lady Camilla. I'm splendid. How are you? Have you come up with something for us to talk about?
+Camilla: I'm afraid not. But I thought I'd simply start a conversation and hope for the best.
+Ryoma: I see. So we're stuck arguing about who knows Corrin best, are we?
+Camilla: Perhaps we could simply include Corrin. Surely the three of us could converse like normal people.
+Ryoma: Isn't that missing the point of this exercise?
+Camilla: Well, I don't know, But if Corrin we're here, we could ask him/her! And, you know, I really prefer keeping an eye on Corrin at all times anyway.
+Ryoma: At all times? What about Corrin's independence?
+Camilla: What about it?
+Ryoma: Corrin won't realize his/her full potential with you protecting him/her all the time.
+Camilla: So? I'll always be there to protect him/her. I don't see the problem.
+Ryoma: Believe me, your approach won't be the best for Corrin in the long run. Lending support and strength is one thing, but overbearing protection is quite another.
+Camilla: Oh Ryoma. Let's just settle this, shall we? I'll go get Corrin and see what he/she thinks about all this.
+Ryoma: Why do you have to drag him/her into all this?
+Camilla: Oh? Worried that he'll/she'll say I'm right?
+Ryoma: No! It's just- Forget it. Go get Corrin. I can't back down from a challenge like this.
+Camilla: As you wish!
+A Support
+Ryoma: Hmm...
+Camilla: *sigh*
+Ryoma: Chin up, Camilla. This isn't the end of the world.
+Camilla: Chin up? You're pouting just as much as I am. I just feel as though we've let Corrin down...
+Ryoma: Yes. He/She was certainly angry. We probably should have anticipated that response. It was childish to treat this whole thing as a competition. We're both dedicated to Corrin. Why did we feel the need to bicker about it?
+Camilla: Ugh, don't remind me.
+Ryoma: At least we learned one thing.
+Camilla: What's that?
+Ryoma: We both care enough about Corrin to make some extremely bad decisions.
+Camilla: Ha. Yes, that's true.
+Ryoma: I actually think that's encouraging. Perhaps it's a real starting point for us.
+Camilla: I suppose you're right. I do feel a new connection with you.
+Ryoma: That's good to hear.
+Camilla: So, where do we go from here?
+Ryoma: We forge ahead. It's what Corrin would want. Working together, we can bring peace back to this world.
+Camilla: Very well. I look forward to sharing a future like that with you, Prince Ryoma.
+Ryoma: As do I, Princess Camilla.
+S Support
+Ryoma: Camilla, do you have a moment?
+Camilla: Certainly, Ryoma. I must say, you've been rather diligent about coming to speak with me regularly. You're really making an effort for the good of both our kingdoms...and Corrin.
+Ryoma: Yes, well, I'm quite stubborn when I've set my mind to something. But, there's more to it than that...
+Camilla: Oh? Starting to enjoy our little conversations?
+Ryoma: Um...
+Camilla: Is something the matter?
+Ryoma: I've been having some feelings...
+Camilla: Oh ho! The great soldier Ryoma, having feelings? Bwahaha! Er, pardon me. That was rude.
+Ryoma: No matter. At first, my motives were pure. I was doing my part for Corrin. But I'm afraid your feminine charms have gotten the best of me, Princess Camilla.
+Camilla: Please. You flatter me.
+Ryoma: But...it's more than just your beauty. I have observed your kindness to others. i find myself wanting to fight for YOU rather than Corrin.
+Camilla: Wait, I think you're actually being serious. Ryoma, what are you—
+Ryoma: Princess Camilla... Marry me. Marry me and unite the two great kingdoms of the world!
+Camilla: Oh, Ryoma, I don't know...
+Ryoma: I will admit that the beginning of our relationship was...rocky. And I imagine that it will be difficult for the people in your kingdom to accept me. But, whatever it takes, I wish to spend the rest of my life with you.
+Camilla: You are dead serious. You're ALWAYS serious, so I should have known. But...that's not a bad thing, is it? I accept your proposal.
+Ryoma: Can you believe it, Camilla? That we'd end up like this? After all the awkwardness?
+Camilla: Oh, I'm sure we have more awkwardness in store. But no, this is quite a surprise. A pleasant one, to be sure!
+Ryoma: Wonderful. Camilla, for the good of both our kingdoms...And for the glory of everlasting love, and the honor of holding your hand...I vow complete and undying dedication, along with—
+Camilla: Oh, just remove that chin armor and kiss me, you fool!
+With Hinoka
+C Support
+Hinoka: Princess Camilla? Why do you keep stabbing that blanket with a needle?
+Camilla: Oh, hello, Princess Hinoka. It's called sewing. I'm making a patchwork blanket.
+Hinoka: So...you attached all those little pieces together yourself? That's...actually pretty impressive.
+Camilla: Well, thank you! A project like this helps me relax during my downtime.
+Hinoka: Really? Because it looks so intricate. Don't you have to concentrate?
+Camilla: Oh, sewing is second nature to me. I hardly have to think at all! Of course, growing up in Nohr, every young lady is taught to sew. Is that not the case in Hoshido?
+Hinoka: Perhaps...but I was raised as a princess. My life was sheltered. At least, until I took up arms at the tender age of seven...
+Camilla: That's a shame.
+Hinoka: What? The fact that I was a child soldier or that I never learned to sew?
+Camilla: Well, both... There's a real sense of accomplishment in crafting something with your own hands. Especially, say, a fine garment for Corrin! She/he was so pleased with the handmade cape I gave him/her the other day.
+Hinoka: I would love to be able to do something like that for Corrin...
+Camilla: Princess Hinoka, would you like for me to teach you how to sew?
+Hinoka: You'd do that for me?
+Camilla: Certainly. Consider it a gift in the spirit of cooperation between our kingdoms.
+Hinoka: Great! I'll take you up on that. Now, hand over those needles. I'm feeling stabby!
+Camilla: It's "sewing," remember? Not swordplay. I think you'll find it requires a gentler touch...
+B Support
+Camilla: Good day, Princess Hinoka. Are you ready for your first sewing lesson?
+Hinoka: Please, call me Hinoka. And yes, I'm ready.
+Camilla: Very well. We'll start with something quite simple. Try using this white thread to connect these pieces of black cloth.
+Hinoka: Seems easy enough. Here we go... Ow! That's sharp!
+Camilla: Yes...you should develop a nice callous if you keep practicing. Until then...there will be a little bit of blood.
+Hinoka: No matter; a little pain never stopped- OW! Blast! What got me this time?
+Camilla: You have to watch out for the pins that are holding the fabric together, dear.
+Hinoka: Ugh. I won't make that mistake again. Now...look how fast I'm sewing!
+Camilla: Er...yes. You are "sewing" rather quickly, Hinoka, but your stitches are all off. See how they're supposed to line up? Like this.
+Hinoka: Gah. You're right; this looks awful.
+Camilla: Just remember - it's not a competition. Take your time and-
+Hinoka: Grr! Why is this so hard? My hand is cramping up already. I can travel halfway across Hoshido on my mount, holding my reins the entire way... And my hand wouldn't hurt this much.
+Camilla: Again... If you expect to become proficient at this in only one day... You are in for a rude awakening. Sewing is an art, it will take time to master.
+Hinoka: I'm sorry. Maybe this isn't for me.
+Camilla: Please, don't apologize. I just thought this would be a good way to get to know each other.
+Hinoka: Is that so? Do you think we can ever become friends?
+Camilla: Well, I'm hopeful that we can. At first, I was jealous when I learned that you're Corrin's real sister. And I know you grew up with a strong resentment of Nohr. But I've been impressed with your dedication to Corrin... I think we actually have a lot in common.
+Hinoka: Well, in that case... I should give this sewing thing a real chance. Would you mind terribly continuing to instruct such an impatient pupil?
+Camilla: Of course not. Now, unclench your fist, and let's keep going...
+A Support
+Hinoka: Camilla, come take a look at this!
+Camilla: Hinoka? Did you sew this all by yourself?
+Hinoka: Yup. Look how straight the stitches are. Of course, I only know how to sew in a straight line...
+Camilla: That's quite all right. And besides, those are beautifully uniform. Excellent work, Hinoka.
+Hinoka: Well, thank you, Camilla. It's all thanks to your patient instruction.
+Camilla: No need to thank me. Your dedication to Corrin made this possible.
+Hinoka: Don't get me wrong. I love Corrin, but there's more to it than that.
+Camilla: Oh?
+Hinoka: Well, we're both protective of Corrin as a younger sister/brother. But I've come to think of you as a friend. A friend fighting alongside me for a just cause. I think that's what kept me going, even when I wanted to give up.
+Camilla: Well, I'm just glad to have a new sewing partner. I've got a lot more to offer as a teacher, you know...
+Hinoka: Oh?
+Camilla: Oh yes, indeed. Have you ever heard of embroidery? You really ought to come to my next tea party so we can talk all about it.
+Hinoka: Well, that sounds interesting...
+Camilla: Yes? Splendid! I look forward to our next lesson. You'll soon be as sharp with the needles as you are on the battlefield.
+Hinoka: Yes... I suppose I will...
+With Takumi
+C Support
+Takumi: Seven center targets, two off-center, one wide. Not bad, but could be better...
+Camilla: Prince Takumi? Are you practicing your archery here in secret?
+Takumi: P-Princess Camilla! I wasn't hiding it, if that's what you're implying.
+Camilla: How curious. Then why come so far out into the deepest part of the woods to practice?
+Takumi: B-because! There's no PEOPLE here to distract me!
+Camilla: Oh my. I seem to have struck a nerve. Ahahah...
+Takumi: What do you want, anyway?
+Camilla: You always seem so flustered. It makes me want to take you under my wing.
+Takumi: I can take care of myself, thank you! I don't need anyone looking out for me! A-and I am NOT flustered!
+Camilla: Did I hurt your feelings? I'm sorry, Prince Takumi. You're cute when you're angry, though.
+Takumi: Wh-whatever! I was ready to pack up here anyway!
+Camilla: Ahahah. Some other time, then.
+B Support
+Camilla: Good afternoon, Prince Takumi.
+Takumi: Oh, it's you.
+Camilla: I'm not interrupting, am I?
+Takumi: Not exactly... But let me make something perfectly clear. I don't trust you. Not entirely.
+Camilla: I...I see. And why not?
+Takumi: We're allies only by convenience. Things could have easily turned out differently. I still don't know if I can put my life in your hands...
+Camilla: Hmm. Are you worried that I'll—
+Takumi: I'm not worried! That's overstating it. Just exercising a healthy amount of caution.
+Camilla: No one would fault you for that. Though I am sorry to hear it.
+Takumi: It's not about you. I don't trust ANYONE I've just met.
+Camilla: Isn't there anything I can do to earn your trust?
+Takumi: That's...a good question. I don't know.
+Camilla: Why don't we dine some afternoon by the lake together?
+Takumi: Just the two of us? That sounds like a trap.
+Camilla: Not at all. Once we establish a rapport, your skittishness around me will be gone. Unless... Are you afraid to be alone with little old me?
+Takumi: I-I'm not afraid of anyone! Fine! Lunch, you and me, the lake tomorrow at noon! Afraid! Hah! This is just what I was hoping for all along!!
+Camilla: Ahahah. I look forward to it.
+A Support
+Camilla: Now say "aaaaaah"...
+Takumi: Stop that! I'm not an infant who needs spoon-feeding! I can cut my own omelet into bite-sized pieces perfectly well.
+Camilla: Oh, but I wanted to feed you ever so.
+Takumi: No! And that's final!
+Camilla: Hmhmhm... You're so precious, Prince Takumi. I feel as though I've acquired another little brother.
+Takumi: Is that supposed to cheer me up? Because all this "precious little brother" stuff sounds like you're making fun of me!
+Camilla: My sincerest apologies. That wasn't my intent at all.
+Takumi: Heh. A likely story.
+Camilla: We seem to have gotten off on the wrong foot, Prince Takumi. And here I was so happy...but I suppose I was getting ahead of myself.
+Takumi: What were you happy about?
+Camilla: Why, it seemed that we were getting along so well.
+Takumi: Look...Princess Camilla... It's not that I don't like you or that I'm having a bad time here by the lake...
+Camilla: But you're still wary of me. Is that what you were going to say?
+Takumi: Mmm...not necessarily. I've been watching you like a hawk and haven't seen any signs you'll betray us. I'm grudgingly ready to admit that you may be trustworthy after all.
+Camilla: Ahahah...I'm honored, Prince Takumi. Now, do you trust me enough to close your eyes and take a big bite? Open wide...!
+Takumi: Enough! I'm not a child!
+Camilla: And yet you fuss so prettily. Hahaha...
+S Support
+Takumi: Princess Camilla! I need to speak with you!
+Camilla: Why hello, Prince Takumi. You seem unusually frantic today.
+Takumi: Y-yes, well. I have good reason to be nervous.
+Camilla: Hmhmhm. Whatever it is, you needn't be anxious around me.
+Takumi: Normally, no, but in this case...
+Camilla: What is it you so urgently need to discuss? If it's something I can help with...
+Takumi: OK...OK, I'll just come out with it. Princess Camilla...you have a lot of suitors, I take it.
+Camilla: Hmhm...and why would you assume that?
+Takumi: W-well, there aren't many women as warm and beautiful as you in this world.
+Camilla: You flatter me, Prince Takumi.
+Takumi: I mean it, though! That really is how I think of you.
+Camilla: Oh...?
+Takumi: So...with all those suitors...surely there is already one you're committed to, right?
+Camilla: Not at the moment. The war has precluded such things, alas.
+Takumi: OK...that's a small comfort, then.
+Camilla: Why do you ask?
+Takumi: Because of this...
+Camilla: ...Is that a ring?
+Takumi: Yes. I had it made specially for you. Princess Camilla. Will you marry me?
+Camilla: Hmm.
+Takumi: I know you still see me as cute, or childish, or as a fun plaything. But I have more to offer than that! Give me the chance to prove it to you!
+Camilla: Hmmmmmmm... That was shockingly mature, for you. I've never known you to be so solemn and direct.
+Takumi: Princess Camilla, I...
+Camilla: I accept your proposal. Perhaps I flatter myself, but I suspect it's my care which has helped you along. In which case, staying by your side for years to come will only improve you further.
+Takumi: N-not exactly the response I was hoping for...but I'll take it. Here's to our life together!
+With Kana (Female) (Daughter)
+C Support
+Kana: Mama! Hey Mama!
+Camilla: Yes, my darling Kana? What is it?
+Kana: Look! I picked some pretty flowers for you! They're yellow like the sun!
+Camilla: Oh, thank you, my dear! These daisies are beautiful!
+Kana: Do you really like them?
+Camilla: I love them! But what's gotten into you lately? You've been bringing me so many flowers.
+Kana: I just remembered that when I was real little, we'd go looking at flowers together. You always smiled so much. And I love your smile, Mama! So I decided to start bringing you lots and lots of flowers to help you smile!
+Camilla: Ah! How adorable! Oh, my precious little Kana-bun, that's so sweet of you. But...I do have a favor to ask of you.
+Kana: Anything, Mama. What do you need?
+Camilla: Remember how I told you that flowers are living things too? Well, when you pick them, they get hurt and wither away.
+Kana: Oh no! I've been hurting them?! It was an accident! I'm sorry, flowers! I didn't mean to be such a big meanie...
+Camilla: Don't worry, Kana. I'm sure the flowers know you weren't trying to hurt them. You just need to promise not to pick any more, OK?
+Kana: OK! But...if I do that, then how can I show you all the near flowers I find?
+Camilla: Hmmm... Next time you find some, come and get me. Then we can go off and look at them together. How does that sound?
+Kana: Really: You won't be too busy?
+Camilla: I'm never too busy for an adventure with you!
+Kana: OK, then it's a deal! Heehee.
+B Support
+Kana: La la lalala-la-la ♪ And now it's Mama time!
+Camilla: Aww. You look so happy, Kana!
+Kana: Of course I'm happy! I just found some great flowers for us to go look at! You're going to love them. I know it! Look! There they are, Mama!
+Camilla: Ooh. They're very...alluring. Sensual, even. But dangerous. Like nightshade.
+Kana: They're so pretty. They reminded me of you, Mama!
+Camilla: Aw. I've been compared to a flower many times, but it's never made me so happy. No praise is higher than Kana praise! Thank you, honey. Heehee.
+Kana: Of course, Mama! Flowers are pretty, but your smiles are even prettier!
+Camilla: Oh? Well I think your smiles are even prettier than mine!
+Kana: Really? Yayyy!
+Camilla: Oh, that reminds me: I have something to show you.
+Kana: Oooh. Is it something good? Can I see it right now?
+Camilla: Heehee. Calm down. I don't have it right now, but it's—
+Kana: Ah! Wait! Don't tell me! I don't want to spoil the surprise.
+Camilla: OK, OK. I'll just keep it safe until we can sit down and look at it together, then.
+Kana: Oh boy! I can't wait!
+A Support
+Kana: Mama, I'm here! Where is that thing you wanted to show me?
+Camilla: Hello, Kana. It's right over here. Come look.
+Kana: Oh wow! This is such a big book! And look at all these flowers! Where did you get them?
+Camilla: These are all the flowers you've been bringing me. I dried them out and pressed them between the pages to preserve them. I thought it would be the perfect way for me to keep all your little gifts safe.
+Kana: Wow! This is amazing! Like, really, really, really amazing! I hadn't realized how many flowers I'd brought you. Look! There are the yellow daisies I gave you the other day! Mama, thank you for taking such good care of the flowers I gave you.
+Camilla: And thank you for giving them to me! I'll cherish them for a long time to come.
+Kana: You're welcome!
+Camilla: You know, we didn't pick those flowers we saw the other day... But we did manage to make some nice memories. I hope we have many, many more memories like them. How about you?
+Kana: Me too! I love you so much, Mama!
+Camilla: I love you too, Kana.
+With Dwyer (Son)
+C Support
+Dwyer: Mother, I made you some coffee.
+Camilla: How sweet. Thank you, Dwyer! What a lovely aroma. This is delicious! You sure know how to make a flavorful pot of coffee.
+Dwyer: You mean it? I'm so glad it tastes good.
+Camilla: I do—it's really exceptional. Honestly, I think I prefer it to the coffee your father makes.
+Dwyer: Really? That's the best praise I could ever hope for! I should probably keep that to myself. He might get mad.
+Camilla: You think so? I don't know. Knowing him, I'd say it's more likely that he might act stubborn and jealous.
+Dwyer: That actually sounds worse.
+Camilla: Heehee. Right? I bet a never-ending stream of coffee would appear right before my eyes. He would keep the cups coming until I said his brew was better than yours.
+Dwyer: Heh. That's not all that hard to imagine. I still have more in the carafe. Let me know if you'd like another cup later.
+Camilla: Thank you, Dwyer.
+B Support
+Dwyer: Hmm.
+Camilla: Something on your mind, Dwyer?
+Dwyer: Hello, Mother. No, nothing in particular...
+Camilla: Are you really trying to hide things from me? Your own mother? I can see right through you, dear.
+Dwyer: Oh. Sorry.
+Camilla: How about you let me hear what's on your mind, darling. Maybe I can help you out.
+Dwyer: It's just... I don't think I'm suited for the battlefield.
+Camilla: Why do you say that?
+Dwyer: You know why. I hate getting into fights. All I would do is weigh everyone else down in the heat of battle.
+Camilla: Oh, Dwyer, that's not true.
+Dwyer: Maybe I should leave the army and go off to be a butler.
+Camilla: You can't do that.
+Dwyer: Huh? Why?
+Camilla: This is your home, Son. You should be fighting here, with us.
+Dwyer: Why?
+Camilla: Because you're sweet and kind.
+Dwyer: No, I'm not.
+Camilla: You are. You just told me a little white lie to try and keep me from worrying about you.
+Dwyer: All the more proof that I have no business on the battlefield. There's no room for kindness there.
+Camilla: You're wrong about that, Dwyer. Your kindness is needed on the battlefield most of all. I've seen you helping your friends even when it put you in danger. That's a very important thing to do, and it certainly isn't easy. When I look into your eyes, I can see that it's as natural as breathing to you.
+Dwyer: I never thought of it like that. Thank you, Mother. I'll do what I can to help my friends.
+Camilla: That's the spirit, dear. You should be proud of yourself. Just know that I'll always be here to protect you.
+A Support
+Camilla: What was I thinking...
+Dwyer: Mother? Is something wrong?
+Camilla: Oh, it's nothing. I'm just a little tired, is all. It's making my mind wander.
+Dwyer: You know I can see right through your lies, right?
+Camilla: Oh, my. Heehee. I suppose I shouldn't be all that surprised.
+Dwyer: I might not be able to help, but I'm more than happy to listen.
+Camilla: Thank you, dear.
+Dwyer: So? Talk to me.
+Camilla: I just... I feel like I'm a failure as your mother.
+Dwyer: Don't say that. There's not a shred of truth to that statement.
+Camilla: But I... I told you to fight. Said you belonged on the battlefield.
+Dwyer: You mean when I was worried the other day?
+Camilla: Yes. Mothers shouldn't encourage their children to fight. But I spurred you to run into the fray. To run toward danger. I have failed you.
+Dwyer: Please, don't say that.
+Camilla: Hm?
+Dwyer: You may have suggested that I stand and fight, but it was my choice to stay. Not yours.
+Camilla: That's true.
+Dwyer: More importantly, I needed your wisdom desperately. I feel like I might have put my friends in danger without your encouragement.
+Camilla: Oh, Dwyer. I had no idea.
+Dwyer: You haven't failed me in the slightest. In fact, you're the best mother I could ever ask for.
+Camilla: That means so much to me. Thank you.
+Dwyer: Now, why don't I make some fresh coffee so you can unwind.
+Camilla: How did I end up with such a thoughtful son? I'm sure lucky to have you.
+With Sophie (Daughter)
+C Support
+Sophie: Moooooooother!
+Camilla: Ah, Sophie! What is that you're holding?
+Sophie: Look! I found some of those flowers you love! Ones just like what you have!
+Camilla: Ooh, that fragrance... Very considerate of you, dearest.
+Sophie: Heehee. I'm glad you like them!
+Camilla: Indulge my curiosity, though; where did you come upon these?
+Sophie: That's what's so amazing! They were really close by! I can go back and get you more, if you want. There's a bunch more!
+Camilla: These flowers you plucked... They wouldn't be the very ones I planted mere days ago?
+Sophie: Then that means... Oh no! That explains why I hadn't seen these flowers there before! I'm so sorry, Mother!
+Camilla: Never you mind, dearest. You did it for me, and I appreciate that.
+Sophie: Can...can I go back and plant these again? They'll grow back their roots, right? Awwwww! Why am I always screwing up things like this?!
+B Support
+Sophie: *sigh* Why am I such a klutz?
+Camilla: You seem distraught, Sophie. Is it something I can help with?
+Sophie: Hey, Mother... Do you think I'll always be a klutz? Earlier today, I went to the market and got a bunch of apples for myself and Avel. When I got back. I decided to see if he could catch one in his mouth, but... I let go in the windup, and the apple hit an old lady behind me instead! Also, Avel fell over. I don't know why that happened.
+Camilla: Haha... That sounds dreadful.
+Sophie: Mother! Don't laugh at me.
+Camilla: I'm sorry, dearest. Was that not meant to be funny?
+Sophie: I'm seriously worrying about my future here, Mother!
+Camilla: Pardon me, then. Can you tell me what irritates you so much about being somewhat clumsy?
+Sophie: I'm not "somewhat" clumsy! My life is one long series of mistakes and blunders!
+Camilla: I don't see the issue there. Mistakes happen. You're more than strong enough to pick yourself up and address them, my child.
+Sophie: But... But...
+Camilla: Besides, there's a certain charm in showing a faint tinge of ineptitude.
+Sophie: Now you're just making things up, Mother.
+Camilla: Hmhm. Don't be so quick to dismiss my advice.
+Sophie: *sigh* Thanks for cheering me up though.
+A Support
+Sophie: Moooooooother!
+Camilla: Why, Sophie, you're in high spirits today.
+Sophie: I sure am! What you said the other day really cheered me up.
+Camilla: Is that what did it? Not because you let go of your worries as you slept?
+Sophie: Why do you always have to tease me?
+Camilla: Ha ha ha...
+Sophie: Oh, that does remind me, though... I made a small mistake at breakfast today. I...accidentally gave the horses the soldiers' meals.
+Camilla: My goodness!
+Sophie: But once I realized my error, I rushed to make fresh meals for everyone. Suddenly, they all joined in to help! It made me really happy.
+Camilla: What a kindness they did for you! You should be grateful.
+Sophie: Yeah, I think so too!
+Camilla: But did you spare a thought as to why they were willing to go to such lengths?
+Sophie: Maybe they were worried that I would burn everything?
+Camilla: More likely, your buoyant presence instills energy in them. Seeing how you never give up even after a setback inspires them to do the same.
+Sophie: It does? I don't know...
+Camilla: Don't worry your precious head over these things. Simply be yourself, Sophie. So long as you do that, you will never want for friends willing to lend a hand.
+Sophie: OK, Mother! I think I can do that. Oh! Also, I think I found some flowers nearby that I'm sure you'll like. We can go check them out together!
+Camilla: I would like that. But you're positive, are you, that these flowers...?
+Sophie: Don't worry! They aren't the ones you replanted. I didn't pick any in advance, either-just in case!
+Camilla: Ha ha ha... That's all I wanted to hear.
+Sophie: All right! Let's go!
+With Midori (Daughter)
+C Support
+Midori: Mother?
+Camilla: Oh, Midori. What is that you're holding?
+Midori: Remember how your knee was bothering you the other day? Well, I made a special ointment. It should help out with the pain. It took me a couple of days to track down the right herbs, but I did it!
+Camilla: Oh, my, you did that for me? Why, thank you, Midori.
+Midori: Heehee. Why don't you take a seat and get comfortable. I will apply it for you, OK? Shoo, pain—stop bothering Mother!
+Camilla: Your special medicines are always so potent. My pain is already gone!
+Midori: Really? Yaaaay! Err, I mean, I'm glad that it helped.
+Camilla: Did your father help you create this ointment?
+Midori: He sure did! I mentioned that you'd been in pain, and he gave me a few ideas. I still had to do a ton of research though.
+Camilla: You're so studious, Midori. I bet your father was happy. He loves to share his knowledge.
+Midori: Heehee, I hope so! he's always pleased when I come to him with a new herb.
+Camilla: Well of course he is! Your father and I are both so proud of you.
+Midori: Heeheehee! Thank you. I love you, Mother!
+Camilla: I love you too, Midori.
+B Support
+Midori: *sniffle*
+Camilla: Midori, what happened? Did someone bully you?
+Midori: Nothing... Nothing, I'm fine. *sniffle*
+Camilla: Tell me who was mean to you. I'll teach them a lesson they won't forget.
+Midori: Well... I was in the forest collecting a few herbs, and some kids came up to me. They asked where my parents were and laughed when I said I was an adult. Then they said they were going deeper into the forest. I tried to stop them... But they turned to me and said, "Kids can't tell us what to do!" and ran off.
+Camilla: Oh, how terribly rude. Did you see if the children got home safely?
+MIdori: Yes, they did. I watched them carefully to make sure they made it back OK.
+Camilla: They sound like very mean children. But I'm relieved that everyone made it back home unharmed. It was thoughtful of you to look out for them even though they were rude.
+Midori: I guess...
+Camilla: Midori, don't make that face. You did the right thing. Oftentimes, people won't appreciate you, even though you're watching out for them. But that's no reason to stop being thoughtful and kind to others.
+Midori: You're right. I won't stop helping people.
+Camilla: That's wonderful to hear. Even if people don't always understand your intentions, I will. I believe in you, no matter what. Just relax, and follow your instincts.
+Midori: *sniffle* Thanks, Mother.
+A Support
+Midori: Mother!
+Camilla: Why hello, Midori. You seem to be in a good mood today.
+MIdori: I am! You remember those kids who I met while I was in the forest the other day?
+Camilla: The ones who were so mean to you? Of course, I remember.
+MIdori: Yeah! Well, I ran into them in town earlier, and they were so nice. They apologized for being rude to me.
+Camilla: Oh really? What a pleasant surprise. So did they understand that you were just trying to help?
+Midori: They did! Well, that and I think their parents yelled at them for being mean. But it still made me feel better.
+Camilla: I'm glad to hear that! Maybe those children aren't so terrible after all.
+MIdori: I think we're friends now. But, um... They invited me to go back into the deep forest with them... They said we'd be safe if I came along, but I'm not so sure. We probably shouldn't go without a grown-up, right?
+Camilla: The deep forest is a perilous place for children and adults alike. It's filled with danger around every corner. I'd feel much better if you stayed away from there.
+MIdori: OK, Mother. I actually suggested that the kids come with me to collect some rare herbs. I told them it'd be a lot more fun than wandering around some scary forest.
+Camilla: That sounds like a great plan. Now you go and enjoy the afternoon with your friends.
+MIdori: OK! Thanks, Mother!
+With Ignatius (Son)
+C Support
+Ignatius: Hello, Mother. I was wondering if you could help me with something…
+Camilla: Dearest Ignatius. What is it you need from your mother?
+Ignatius: You know…now that I'm here it seems a little silly. Forget about it. I can take care of it.
+Camilla: Oh, my child. You're not still letting a little spider or worm get to you, are you?
+Ignatius: It's a spider riding a worm. If it had just been a spider OR a worm, I could have handled it—I swear!
+Camilla: I worry about you sometimes. This is not the 1st time you’ve needed me to squish a bug. It isn’t even the 10th.
+Ignatius: Oh, gods… Please do NOT squish them. Just take them somewhere far, far away. This will be the last time—I promise.
+Camilla: Oh, my child… You may put on a brave face for the rest of the world. But I am your mother, and you will forever be my baby boy. I'll always understand if you need to come to me for help.
+Ignatius: I know. I really am working up the courage to handle my own bugs, you know?
+Camilla: I don’t doubt it in the slightest. Now then, where are the insects that need squishing?
+Ignatius: No, I said DON’T squish them! I don’t want bug guts on my things!
+B Support
+Ignatius: Good day, Mother. Do you have a moment?
+Camilla: For you, dearest? Always, what is it? Another bug to vanquish?
+Ignatius: No! I told you, I'm going to deal with my own bugs from now on. Why, just the other day a ladybug landed on my forearm... And, through gritted teeth, I was able to gently brush it away.
+Camilla: Well done, dearest! But if that's the case... What's on your mind?
+Ignatius: Well, it is about my tent. There's something wrong with it.
+Camilla: Was it torn in a training exercise? I warned those soldiers not to get too close.
+Ignatius: No, the fabric is intact. It's just... I believe my tent is haunted. As I was drifting off to sleep, I was sure I could see a face staring at me!
+Camilla: Oh, my. I can see where that might be disturbing. Eyes that never close...lips dawn in a tight line...nostrils flaring periodically.
+Ignatius: MOTHER! That's not funny.
+Camilla: Don't fret, dearest. I'll rid your tent of any evil spirit haunting it.
+Ignatius: I mean, I don't believe in evil spirits. I know they don't exist, but... What if they do?
+Camilla: Ha ha... You're just the scaredy-cat now that you were as a little one.
+Ignatius: I'm sorry. You've always been so imposing. You must be disappointed to have raised a coward.
+Camilla: I didn't mean it in a negative sense. Quite the contrary. Though you've grown into a brave warrior, the flashes of your old self make me smile.
+Ignatius: Really? You mean that?
+Camilla: Yes. Strange though it may seem, you'll understand once you're my age. And even then, you'll still be an adorable baby boy in my eyes.
+Ignatius: Heh. Well, thank you, Mother.
+Camilla: Come to think of it, whatever happened to the stuffed animals you kept? Do you still have them?
+Ignatius: Yes, what of it?
+Camilla: I was just reminiscing on their cute faces. Though I imagine in a certain light, they may not seem as cute.
+Ignatius: Oh. OH! Never mind.
+A Support
+Ignatius: Hello, Mother. I have something for you.
+Camilla: Ah! This is one of those charms you make as a hobby?
+Ignatius: Yes. It's meant to bring you good luck.
+Camilla: It's a lovely gift, dearest. What's the occasion, if I might ask?
+Ignatius: It's just... I don't want you to die.
+Camilla: Oh, my child...
+Ignatius: I know I shouldn't worry about it, but... I get scared every time you fight. If something were to happen to you...
+Camilla: My child... I wouldn't worry so much about that if I were you. Or need I remind you how many battles your mother has seen?
+Ignatius: Yes, and I know tough you are. But I still worry. You're the only person who accepts me just the way I am. I...I just can't stand the thought of losing you.
+Camilla: Dearest, you know that I care about you very much. But I am not so unique in that regard as you might think. Breathe deeply, try to relax, and think of all people you know. At least some of them accept you as you are, no? There are so many darling people here that I would be shocked if none did...
+Ignatius: You're right. Of course.
+Camilla: So you needn't harbor these silly fears. Even when you and I say our farewells, your life will be full of those who care for you.
+Ignatius: I know. I'll try to be stronger. I'm sorry if I worried you.
+Camilla: Ha ha... I'm accustomed to it by now, dearest. Shall I count the ways in which I had to pick up after you when you were young?
+Ignatius: Mother! I get it. Just promise me that you'll live a long, healthy life, OK?
+Camilla: Well...not so long that I grow bent and wrinkled, one hopes. But yes, I promise that the two of us will spend many happy years together.
+With Velouria (Daughter)
+C Support
+Velouria: Mom? Where are you, Mom?! *sniff* *sniff* *SNIFF* Ooh, I think she's this way...
+Camilla: Hello, Velouria. What brings you here?
+Velouria: Mom! There you are! I knew my nose wouldn't fail me in my time of need.
+Camilla: Were you looking for me for some reason?
+Velouria: Mom... May I have a hug? A big one? Right now?
+Camilla: Ah, is that all you wanted? Of course, child. Come to Mother.
+Velouria: *sniff* *sniff* Mom, you smell so sweet. Just like a flower!
+Camilla: Do I indeed? Then sniff away to your heart's content.
+Velouria: *SNIFF* *SNIFF* I'm getting sleepy just being in your arms, Mom... *sniff* *sniff*
+Camilla: Naturally. One is always most comfortable in the arms of family.
+Velouria: Mom... Don't ever go anywhere... I want to stay with you...forever... *sniff* *sniff* Zzz...
+Camilla: You needn't worry about that, my child. I'll be here for you when you wake.
+Velouria: Zzz... I love you, Mom... Zzzzzz...
+B Support
+Camilla: Velouria, dear, where have you gone? Your dinner's getting cold.
+Velouria: ...
+Camilla: I recognize that look... What's gotten you in such a mood?
+Velouria: Mom, I've been thinking... You shouldn't be here.
+Camilla: Whatever do you mean?
+Velouria: I want you to go somewhere far away from here. Somewhere safe. If you stay here, something bad might happen!
+Camilla: I am aware. It is the risk we all take, being at war.
+Velouria: I know! That's why you have to go far away from this place!
+Camilla: By myself? Without my retainers? My husband...my daughter?
+Velouria: I don't like the sound of it either, but it's the only way to keep you safe. Missing you is a lot better than losing you forever.
+Camilla: It is out of the question, I'm afraid. Especially for me. My work is far from over. An entire army depends upon my presence here.
+Velouria: I don't care about the others-only you! You're my mom... I need you to be safe.
+Camilla: I'm sorry, Velouria, but I must see this thing through to the end.
+Velouria: I don't understand...
+Camilla: Velouria... I do all this for you, my child. My only purpose is to wrest this world into order, that you might live in peace.
+Velouria: ...
+Camilla: You worry about me, because you are sweet and gentle. But I... I must remain firm.
+Velouria: Mom... May I hug you for a while?
+Camilla: Nothing would delight me more.
+Velouria: You smell so nice, Mom... Don't...don't ever leave me... *sniff*
+Camilla: Never. I'll always be with you...come what may...
+A Support
+Velouria: Mom... MOM?!
+Camilla: Whatever is the matter, Velouria?
+Velouria: I need to hug you some more.
+Camilla: A need I'm always happy to meet. Come here, my darling child.
+Velouria: You smell more like a flower every day, Mom.
+Camilla: You have your own beautiful fragrance. Soft and warm, like baking bread.
+Velouria: Mom... I'm sorry for saying such funny things the other day. I won't ever tell you to go away again. I think I understand why you refused.
+Camilla: Come now, you needn't apologize. I know you said those things out of love.
+Velouria: I decided I'm going to get stronger. Strong enough to protect you! You're the most important mom in the whole world, so I have to watch over you.
+Camilla: I hope you know I feel the same about you, dearest. Every victory is one step toward ensuring that no one ever brings harm to you... For you are unique in the world-the only daughter I have.
+Velouria: Is it OK if I hug you a little longer?
+Camilla: Haha, you're insatiable today.
+Velouria: Can I hug you tighter and tighter until we both explode from love?
+Camilla: Hmhm... Stay sweet, my darling.
+Velouria: My mom, the camellia... I love you so much... I'll love you forever and ever, Mom...
+Camilla: Thank you, dearest. I love you too.
+With Percy (Son)
+C Support 
+Percy: Mom, I'm back! Is dinner ready yet?
+Camilla: Welcome back, Percy. dinner is on the table.
+Percy: No time to wait! I'm gonna dig in!
+Camilla: Now hold on just one moment. Have you washed your hands yet?
+Percy: Oops, I forgot. I'll run and wash them.
+Camilla: Heehee, slow down! There is plenty of food. Why are you in such a hurry today?
+Percy: I have to eat fast... Every moment I'm not training is a missed opportunity. Eat fast, train fast! I need to get big and strong quickly. How else will I be able to keep you safe?
+Camilla: So you're going to protect me? That's very sweet, Percy.
+Percy: I promise, I'll never let anything bad happen to you! You can count on me!
+Camilla: I know that. But please, take time to actually chew your food properly. You won't be able to get much training done if you have a stomachache.
+Percy: Good point, Mom. For the time being, I'll train myself to eat quickly but efficiently.
+Camilla: Teehee. Let's enjoy our meal.
+B Support
+Percy: Mom, I'm back!
+Camilla: Oh my, Percy! Your knee is bleeding! How did you hurt yourself?
+Percy: Fear not, Mom! This scratch is merely a symbol of my dedication to my training.
+Camilla: Oh, you poor thing... We have to disinfect this right away.
+Percy: No, no, it's OK. I'm sure it will all be fine if we leave it alone.
+Camilla: That's not how injuries work. You have to clean and dress cuts to keep them from getting infected.
+Percy: I'm fine, seriously. But if it will make you feel better...
+Camilla: Parents can't help but worry about their children sometimes. Now hold still while I put the ointment on your scrape...
+Percy: Youch! You didn't say that would sting! Can you try to be a little more gentle?
+Camilla: Now, Percy, can't you bear a tiny amount of pain? How are you going to protect me if you're such a little weakling?
+Percy: What? No, I was just... pretending! Yeah, I was totally just pretending it hurt. I can't believe you actually fell for that. Go ahead, put on more medicine. I can take it.
+Camilla: Oh, silly, I only needed a tiny dab. So, how did you get this battle injury?
+Percy: I was running down a mountain as fast as I could. But I lost my footing and tripped.
+Camilla: And you only have this little scratch? You could have broken your neck! Do me a favor and quit training so recklessly, OK?
+Percy: But... How can I get strong enough to protect you if I quit?
+Camilla: I know how much this matters to you. It's very sweet that you want to protect me. But a true protector would never put themselves in harm's way for the thrill. You're being careless. You are the most precious thing in the world to me. Please understand, I just want you to be safe.
+Percy: You're right... I'm sorry, Mom.
+Camilla: That's a good boy. Now how about we enjoy our dinner?
+Percy: Yay! All that tumbling made me hungry!
+A Support
+Percy: Hey, Mom...
+Camilla: Oh, what's the matter? You seem so gloomy today.
+Percy: I'm just not sure if I can actually get strong enough to protect you.
+Camilla: Why would you ever think such a thing?
+Percy: There are so many strong people all around the camp. Much stronger than me... What do I do if I come across a foe who is more powerful than I am? Thinking about that makes me lose confidence...
+Camilla: Don't worry yourself over that. If you work really hard, you can be the strongest of all.
+Percy: You're just trying to make me feel better...
+Camilla: No, I'm not. Listen, I've seen how hard you've been training every day. Continue that effort, and someday you will be the strongest person in the world.
+Percy: Someday isn't good enough. What if evil rears it's head before I'm ready to defeat it?
+Camilla: Please, don't concern yourself with that. I will watch over you until your training is complete. And when that day comes... you may protect me.
+Percy: That sounds like a great plan. I'm gonna bust my tail and work even harder. Then no enemy will dare challenge me.
+Camilla: I'll be there to cheer you on. And when you tire from training, come rest and I will sing you a lullaby.
+Percy: That sounds great. Thanks, Mom!
+With Ophelia (Daughter)
+C Support
+Ophelia: Mother, my situation is terribly dire.
+Camilla: Oh dear. What's wrong? Did something bad happen?
+Ophelia: A voracious beast stirs within me. It demands a hearty offering.
+Camilla: Oh! So you're just hungry then?
+Ophelia: You know me so well.
+Camilla: Well of course I do, Ophelia. After all, I am a chosen one.
+Ophelia: Y-you are?! Somehow, I always suspected. I have to admit, I'm a little jealous. I wish I were a chosen one too! Then we could battle side by side!
+Camilla: Heehee. That's be wonderful.
+Ophelia: First, we'd better quiet this grumbling in my belly.
+Camilla: I get the hint, dear. I'll make you a sandwich in a moment.
+Ophelia: Let me help! What should I do first?
+Camilla: What a kind offer. Can you find us a few plates, dear?
+Ophelia: No problem! I've got it under contr- AHH! *crash* Mother! Oh no! My shattered-plate fortune-telling has revealed a dire event in our future.
+Camilla: Now, Ophelia, if you break a dish, the polite thing to so is apologize.
+Ophelia: You're right, I'm sorry.
+B Support
+Ophelia: *sigh*
+Camilla: Ophelia, sweetheart. What's on your mind?
+Ophelia: Chosen ones really do see everything, don't they?
+Camilla: Why don't you tell me what's on your mind? I'd love to help, if I can.
+Ophelia: Well, I've been wondering something. Do you think I'll become a chosen one?
+Camilla: Why do you doubt yourself?
+Ophelia: It's just that I'm not strong like you and Father.
+Camilla: Is that all, dear? Don't you worry. One day, you'll be a chosen one too!
+Ophelia: How could you understand my feelings? You're already so strong!
+Camilla: You know I wasn't always this way, right?
+Ophelia: Huh? What do you mean?
+Camilla: My power didn't come from being a chosen one.
+Ophelia: Really?
+Camilla: Take a guess. Who do you think I was chosen by?
+Ophelia: Hmm... Fate? Or the gods perhaps?
+Camilla: Heehee, good try. It was you, Ophelia. You chose me.
+Ophelia: I-I did? How is that possible?
+Camilla: Your birth gave me incredible fortitude. I knew that I had to protect you, no matter what happened.
+Ophelia: Oh, I had no idea.
+Camilla: So, don't you fret, dear. I know that one day you'll be powerful, just like I am.
+Ophelia: Thanks, Mother.
+A Support
+Ophelia: Hello, Mother!
+Camilla: Ah, Ophelia! You're in high spirits today.
+Ophelia: Thanks to you, I am! You pulled me free when I had sunk into a tide pool of despair.
+Camilla: I'm glad I could help you escape.
+Ophelia: Now that I moved past that darkness. I need you to teach me everything. Battlefield strategy, culinary techniques... Whatever wisdom you can spare.
+Camilla: Wow. All that? Why are you so curious all the sudden?
+Ophelia: Generations to come should benefit from your experience. I need your help, Mother. I have to become much stronger. With your guidance, I can develop the tenacity and skill to back up my words. Maybe then I could inspire and help people.
+Camilla: Heehee, I see.
+Ophelia: Please, I just want to be an incredible chosen one, like you! Teach me everything! I'll soak up your knowledge like a sponge.
+Camilla: Very well. Since you're so passionate, I'll impart what wisdom I can.
+Ophelia: Oh, thank you, Mother! Why don't we start with some chores?
+Camilla: Yes. Maybe something simple, like washing the dishes?
+Ophelia: Let's start small. How about that pile over there? AHH! *crash* Umm, I broke the dishes. Again. I'm very sorry, Mother.
+Camilla: Oh my. Well, at least you apologized right away this time.
+Ophelia: A true chosen one doesn't try to hide their mistakes, right?
+Camilla: I'd expect nothing less from you, Ophelia. You're a very good girl.
+With Soleil (Daughter)
+C Support
+Soleil: Hi there, Mom! Say, what are you getting up to today? Sharpening blades?
+Camilla: Oh, it's you, sweetie. Yes, I've been working on these swords for a while. Keeping each blade sharp is important to our success in battle.
+Soleil: Wow, how interesting...
+Camilla: Why are you staring at me, Soleil? Do I have something stuck in my teeth? What is it?
+Soleil: Shh, be quiet. I need to take in this moment so I can remember it forever. My perfect mother, standing with a blade glimmering brightly in the sun...Her hair swaying gently in the breeze while she takes the stone to the iron...Heehee! This is just too adorable!! What a cute scene!
+Camilla: Heehee, oh stop it. It's not nice to tease your mother, sweetie. Everyone has to pitch in. I'm not doing anything special.
+Soleil: I'd never tease you, Mom! Seriously! You're always so humble about everything. I never knew how much elegance and grace was required for maintaining weapons. I can't handle it! Everything is so crazy adorable with you! We have to run into town and grab some tea together. I need to know how you became such a world-class cutie.
+Camilla: Another time, Soleil. I still have a whole pile of swords that I have to get to. Excuse me, dear...
+Soleil: Wait, Mom! Please, don't go!
+B Support
+Soleil: Strong hands running through pure, golden feed... With a quick flick of the wrist, she scatters the food deftly on the ground... Sweet, fluffy critters line up just to bask in her presence... Heehee...
+Camilla: That's more then enough, Soleli. You're distracting me from all my chores! 
+Soleil: I can't help it! What am I supposed to do? You're the one who decided to do your chores in such an adorable way! If you don't want me to be distracting, then quit being so cute already! 
+Camilla: Are you trying to test my patience? You're starting to make me upset...
+Soleil: Aww, you're even cuter when you get really angry at me! 
+Camilla: *sigh* For better or worse, you've clearly taken after me... But seriously, I need you to get out of my way. These chores can't wait.
+Soleil: Really? But you've been working all morning! Can't you take a break? I got this wonderful blanket from the fair the other day. We should go have a picnic! It would be such a cute, idyllic scene, don't you think? 
+Camilla: I told you already, there's no time. I have way too much work to do.
+Soleil: Do you labor this hard every day?
+Camilla: Of course. Who else will see to the animals if I don't?
+Soleil: Wow. I had no idea.
+Camilla: Please excuse me, Soleil.
+Soleil: Wait a minute. Can't I help? There must be some way to make myself useful.
+Camilla: Hmm. Well, I suppose you can cut up these carrots. The horses just love them. 
+Soleil: Leave it to me! Oh my gosh, has anyone ever looked cuter then us right now? This is so much fun, heehee!
+Camilla: Don't you ever let up?
+A Support
+Camilla: I suppose I'd better start organizing the new supply of rations... 
+Soleil: Moooom! There you are! Hi!
+Camilla: Sweetie, I'm really busy right now. I don't have time to indulge your silliness. 
+Soleil: I didn't come here to harp on how cute you look counting these sacks of rice. I mean, it's delightful. Heehee... Sorry, I got distracted. I came here to tell you something important. I've learned so much by watching you work the last few days... I feel like I appreciate all your efforts more than ever. I had no idea how much work it takes to get everything done around here. It's very impressive.
+Camilla: Heehee, that's very sweet of you to say.
+Soleil: You've inspired me to make a big decision. I'm going to be just like you! After all, you're my mom! I can't sit here and let you do all the chores by yourself.
+Camilla: I appreciate the offer, but I honestly don't think I'll need any assistance today.
+Soleil: It's really cute to watch you be so selfless. But I really want to pitch in! Can't I do something? Please?
+Camilla: Fine, if you insist.
+Soleil: Really?! That's so exciting! Thanks, Mom. I promise I'll work super hard. You can count on me!
+Camilla: There's just one thing. I don't want to hear one complimentary word out of you. We have a lot to accomplish today, OK?
+Soleil: Hahaha! You're so silly. That's impossible. We're a total dream team! Watch out, world! These two cuties are gonna knock out some chores!
+Camilla: *sigh* Let's get to work already.
+With Nina (Daughter)
+C Support
+Nina: Mmm...that was really something. The way those men were chatting like old friends... What could they have been talking about? The mind wanders...
+Camilla: Ah, Nina. Hello.
+Nina: Gah! Mother?! What are you doing here? I thought you were training! You didn't hear me talking about...stuff... Did you?
+Camilla: I heard a low murmur, but I couldn't make out any words, if that's what you're asking.
+Nina: Good! Don't worry about it! Whew...
+Camilla: I thought you might like to know that I've been tidying up the house. Today's project was your room... And it was in sore need of attention.
+Nina: Mother! That's my private space.
+Camilla: But surely your mother is allowed entry, isn't she? Anyway, you'll find the books that were under your bed placed upon your desk.
+Nina: Oh my gods, oh my gods, oh my gods... PLEASE tell me you didn't open any of those books...
+Camilla: Dearest, I can't quite make out what you're on about.
+Nina: My diaries and journals, Mother! Did you read them or didn't you?
+Camilla: Worry not, my child. I would never. Whatever might or might not be written in them, you're still my child.
+Nina: What's that supposed to mean? It sounds like you DID read them! Well? Did you or didn't you? ARRRRGH!
+B Support
+Nina: *sigh* Why does it have to be so difficult...
+Camilla: Such a dark cloud over that bright face... What's troubling you, my child?
+Nina: Oh...hi, Mother. I...I dunno.
+Camilla: Is it something you can confide in with your mother?
+Nina: Well, I suppose things can't get any worse... I...I have a hard time talking to guys. But I think about them all the time! I feel like such a freak. Like they know that I'm thinking about them... And I just clam up and turn red. It's so awful!
+Camilla: Bashfulness is nothing to worry about. I was once the same way.
+Nina: Ugh, you don't understand! When I finally manage to stammer a few words out... I start acting super mean and creepy for no reason! I need to change. But I don't know how...
+Camilla: Awareness of your need means you're on the right track. If you understand the offense you're causing...You can work from there to minimize it in the future. It will take time and effort, but I believe in you, my child.
+Nina: You really think so?
+Camilla: And if I'm wrong, and you cannot change...It's not so bad. There are men in this world who enjoy being treated cruelly.
+Nina: Thanks, Mother. I actually feel a little bit better.
+Camilla: I'm glad I could be of some comfort. It's a relief to set you on a more proper path than your journals described...
+Nina: Wait, so you DID read them? AGHHH! I'm going to DIEEEEEE!
+A Support
+Nina: Hey, Mother. Guess what? I talked to a guy today, and it wasn't weird at all!
+Camilla: Very good, dearest. I'd love to hear the details.
+Nina: Well, it was pretty basic as far as talking goes. I just gave him directions. But I didn't say anything weird or run away randomly!
+Camilla: Both those things are important not to do when attempting to speak with someone. I couldn't be more proud.
+Nina: Right? I've been giggling about it all afternoon.
+Camilla: I look forward to the day I can introduce you at a royal ball. Perhaps by then you'll have lost interest in your less socially acceptable hobbies...
+Nina: I thought we agreed to never speak of...my hobbies...ever again!
+Camilla: Of course, dearest. I'll refrain from any and all compliments I might have made on your stealthiness.
+Nina: How many of my diaries did you read, Mother? Jeez!
+Camilla: Does the exact number matter? Sometimes a mother must resort to certain measures to get to know her child. Sometimes a mother thinks it prudent to share these measures with her husband.
+Nina: WHAT?! Why would you do that? WHY?
+Camilla: It was a tactical decision, dearest. Your father and I agree that your tactics should be disseminated to the troops. So we're having copies struck of the irrelevant man-watching passages.
+Nina: Great. Now everyone knows what a huge freak I am. Thanks, Mother.
+Camilla: No one will call my child a freak, least of all her. You have a gift, dearest! And I'm displaying it to the world out of love. I'm so proud of you, my child. Now may I have a hug?
+With Shiro (Son)
+C Support
+Shiro: Hey, Mom. Do you feel like doing something today?
+Camilla: Why do you ask? What's gotten into you?
+Shiro: Well, we didn't get to spend much time together when I was growing up, right? Maybe now we can make up for that with some mom-son bonding time!
+Camilla: What a wonderful idea. I can't really think of anything right now, though. But thank you. Honestly, your feelings alone mean the world to me.
+Shiro: How can we bond if you don't want to hang out with me? I mean, I can't spend time with Dad. He's always preoccupied with the war. I guess you don't see him much either. Has he ever given you a gift or anything?
+Camilla: Shiro, your father is not like that.
+Shiro: Well, I'm not like HIM! I want you to know how special you are, Mom. Come on. Please! Can't you think of something you would like to do?
+Camilla: Heehee.
+Shiro: Wh-why are you laughing at me?!
+Camilla: You're so quick to try and compare yourself to him. It's just silly. He would be terribly upset to hear you going on like this. Listen, all you need to know is that I'm very happy to be married to your father. He treats me very well, Shiro.
+Shiro: Mom, are you sure? He's never even here to show that he cares.
+Camilla: You may not know, but he loves me a great deal, dear. If you really find that so unbelievable, I'll show you proof someday.
+Shiro: I admit, I'm curious to see this so-called proof, I'll hold you to your word, Mom!
+Camilla: You won't be disappointed.
+B Support
+Camilla: Shiro, do you have a moment?
+Shiro: Ah, hello, Mom. What are those envelopes in your hand?
+Camilla: It's the proof I promised you.
+Shiro: Oh, let me take a guess. Love letters?
+Camilla: Yes, and I treasure each one. This is the first letter he ever wrote me. And these ones are the most recent.
+Shiro: Wow, I had no idea that Dad was such a prolific writer.
+Camilla: I was rather surprised as well. I never thought he would write me dozens of long letters. He discusses his feelings in person as well. But writing allows him total freedom to express his emotions. I just adore this side of his character. Heehee. Are you surprised?
+Shiro: I've always thought of Dad as being stiff and formal. Maybe I've been wrong all along. Tell me, what does he write about?
+Camilla: You'd like to know, huh? Sorry, but it's my personal secret. After all, these letters hold all of our precious memories.
+Shiro: Now I'm even more curious! I suppose knowing how much you two care about each other will have to do.
+Camilla: That's a good boy. We love you very much, Shiro.
+Shiro: I-I know that! But thanks for saying so.
+Camilla: Heeheehee!
+A Support
+Shiro: Hey, Mom! Do you have a minute?
+Camilla: Certainly. What is it?
+Shiro: Well, after you showed me Dad's letters, I started thinking. I thought maybe I'd try writing out my thoughts and feelings too. What it's like to be your son... That sort of thing.
+Camilla: You wrote me a letter, Shiro? Thank you. That makes me very happy.
+Shiro: I don't know. Now it just doesn't seem good enough.
+Camilla: Hm? Why do you say that?
+Shiro: It's not very special if I'm just doing the same thing as Dad, right? That's why I've decided to treat you to a fancy meal as well!
+Camilla: A fancy meal? Really?
+Shiro: Yeah. Anything you want! Well, anything I can find in the forest at least. I can't get started until you tell me what you'd like to eat. Anything sound good?
+Camilla: U-uhhm, well... Could I have a little time to think it over?
+Shiro: I guess it would be hard to think of something off the top of your head. Just let me know when you make up your mind.
+Camilla: I will, dear.
+Shiro: Most importantly, now I've got a leg up on Dad! Hahaha!
+Camilla: Do you really need to turn this into a competition?
+Shiro: I'd be failing you as a son if I couldn't make you happy.
+Camilla: Oh my, I think your father once said the exact same thing.
+Shiro: He did?!
+Camilla: Yes, let me think... He said he'd be an utter failure as a husband if he couldn't make me happy. Heehee. As they say, like father, like son.
+Shiro: Damn! He always has the upper hand!
+Camilla: Calm down, Shiro. I want to thank you. Knowing that you're so fond of me is wonderful. I'm so happy to be your mother.
+With Kiragi (Son)
+C Support
+Kiragi: Ah, the great outdoors. What a perfect day to do some hunting! The mountains look very appealing... But I did see a lot of game in that field the other day. So many choices!
+Camilla: Kiragi! Stop right there!
+Kirag: Yikes! H-hey, Mom. You sure are good at sneaking these days.
+Camilla: Don't greet me that way. It's very rude.
+Kiragi: I can't help it. You look like you're about to attack!
+Camilla: You're a silly boy. What are you doing out here? I asked you to stay home and get to work. I just don't know what I'm going to do with you...
+Kiragi: I'm sorry... I promise I'll do some work as soon as I get home, OK?
+Camilla: Oh no, I don't think so. You always just eat and fall asleep the second you get home from hunting. Don't you try and trick me.
+Kiragi: B-but... I'm awful at math and history.
+Camilla: Which is exactly why you need to devote more time to studying them!
+Kiragi: I can survive being bad at math and history. I don't see what the big deal is.
+Camilla: Sweetie, it's not just math and history. You need to be well rounded in order to survive in this world! I admit, your father and I should have been around to help with your education... I'm very sorry we weren't. But that's why it's so important to work hard now.
+Kiragi: *grumble*
+Camilla: I need you to cut back on the hunting. Studying needs to be your priority, OK?
+Kiragi: No! This isn't fair! Hunting is the only thing I have to look forward to! Don't try and take that away from me! You may be my mother, but you can't force me to do anything. I'm going hunting, and I don't care whether you like it or not.
+(Kiragi leaves)
+Camilla: Kiragi, get back here! *sigh* He's even more stubborn than his father...
+B Support
+Kiragi: What an amazing day! No one will be going hungry anytime soon. That bird sure gave me a lot of trouble. I should look it up when I get home. Maybe I need to build some new traps, too.
+(Scene translation)
+Kiragi: OK, careful... Easy does it. I can't let Mom know that I was out hunting instead of resting. "Work harder on your studies!" That's all she ever thinks about. Like I need math or history to be a good tracker.
+Camilla: Hmm. Maybe I should rewrite this one...
+Kiragi: Huh? It looks like she's writing something.
+Camilla: I bet he'd find this equation simpler if we compared it to the flight of an arrow.
+Kiragi: What is she doing?
+Camilla: The timeline in this book is just awful. There must be a better one around here. I guess I'll have to run down to the library to track down a different copy.
+Kiragi: Geez, she's working really hard.
+Camilla: It's not that he's bad at studying. He just gets overwhelmed by dealing with so much information all at once. We need to take things slowly. I know he can catch up.
+Kiragi: Hey, Mom.
+Camilla: Ah, Kiragi, welcome home. Why are you just standing there?
+Kiragi: I-I'm sorry, Mom. You're putting so much energy into helping me learn, and I keep running off to hunt. I'm really sorry.
+Camilla: Kiragi, sweetie. Don't say another word. I'm not upset with you. It's important for us to understand each other's positions. Will you try to give up some hunting time to work on your studies though?
+Kiragi: I will! I didn't realize how much this mattered until I saw you just now. Please, teach me! I want to learn about math and history!
+Camilla: Heehee, that makes me so happy. Would you like to start now?
+Kiragi: OK! But wait. I'm totally covered in mud. Let me change real quick—then we can start! Wait right here!
+Camilla: I'll grab the books!
+A Support
+Kiragi: All right! I solved it! Take that, math problem!
+Camilla: Wow, that was quick, sweetie. Show me your work. Hmm... Well, the answer is correct. But how did reach that conclusion?
+Kiragi: Ah, yeah. I know you normally start on the right. But if you make an assumption here, you can skip a bunch of extra calculations. I think the book called it an advanced method, but it wasn't that tough.
+Camilla: Oh, you're so clever!
+Kiragi: Hehheh!
+Camilla: You did an excellent job with your history assignment as well. All the years, places, and important events are in the right spots. You didn't miss anything at all!
+Kiragi: It was so much easier once I started thinking of them as fantastic stories. Boring random facts are so much harder to remember. And it helps to have a great teacher, too!
+Camilla: You're the one putting in all the effort, sweetie. I'm so proud of you!
+Kiragi: Stop, Mom! You're going to make me blush.
+Camilla: It looks like you've already finished up all your work for the day. Why don't you take the afternoon off? Go enjoy some hunting!
+Kiragi: Umm, thanks. That's all right.
+Camilla: What?
+Kiragi: I mean, hunting is great and all. But I'd love to study some more with you.
+Camilla: Awww. Sweetie, are you sure?
+Kiragi: You made me understand that learning can be so much fun! I can't believe that I used to dread it. We can keep going, right?
+Camilla: Well of course we can, if you really want to. Spending time with you makes me happy as can be!
+Kiragi: I've been having a great time too! Thanks, Mom!
